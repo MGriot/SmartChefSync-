@@ -1,0 +1,18 @@
+{
+  "id": "6811ae57-c4cf-4a32-b282-a63865949e99",
+  "category_id": "15fc7273b8d09447737eda7669d188ce",
+  "name": "Blueberry",
+  "description": null,
+  "icon": "FaAppleWhole",
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:28",
+  "updated_at": "2026-08-20 12:28:28"
+}

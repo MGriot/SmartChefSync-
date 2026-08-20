@@ -1,0 +1,18 @@
+{
+  "id": "fce3ffa9-33e9-4f46-8710-c6e59d22318b",
+  "category_id": "91be3bb1fcd0b8b5b5eb19d3d300320c",
+  "name": "Spinach",
+  "description": null,
+  "icon": "FaLeaf",
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:19",
+  "updated_at": "2026-08-20 12:28:19"
+}

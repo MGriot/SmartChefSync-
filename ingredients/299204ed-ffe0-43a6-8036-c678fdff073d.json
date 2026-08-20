@@ -1,0 +1,18 @@
+{
+  "id": "299204ed-ffe0-43a6-8036-c678fdff073d",
+  "category_id": "acfaa2f68e56ffa71da28ff3a1991abf",
+  "name": "Sugar Pearls",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": 387,
+  "protein_g": 0,
+  "carbs_g": 99.8,
+  "fat_g": 0,
+  "fiber_g": 0,
+  "sugar_g": 99.8,
+  "sodium_mg": 0,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:24",
+  "updated_at": "2026-08-20 12:28:24"
+}

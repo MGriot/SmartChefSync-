@@ -1,0 +1,18 @@
+{
+  "id": "648b684e-a861-4668-94a9-2f9c7bb70351",
+  "category_id": "a25e3f52e12a501384d7a74f355c1a27",
+  "name": "Purple Potato",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": 77,
+  "protein_g": 2,
+  "carbs_g": 17,
+  "fat_g": 0.1,
+  "fiber_g": 2.2,
+  "sugar_g": 0.8,
+  "sodium_mg": 6,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:29",
+  "updated_at": "2026-08-20 12:28:29"
+}

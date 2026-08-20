@@ -1,0 +1,18 @@
+{
+  "id": "b31bd62c-5bbc-43e5-91cb-15ef86818707",
+  "category_id": "478336e277b2623bab6ea8356e53d401",
+  "name": "Black Beans",
+  "description": null,
+  "icon": "FaBowlRice",
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:20",
+  "updated_at": "2026-08-20 12:28:20"
+}

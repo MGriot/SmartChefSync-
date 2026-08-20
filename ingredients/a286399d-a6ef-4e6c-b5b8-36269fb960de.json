@@ -1,0 +1,18 @@
+{
+  "id": "a286399d-a6ef-4e6c-b5b8-36269fb960de",
+  "category_id": "4a57987ec1c4d32e2d435f7797e93988",
+  "name": "Mussels",
+  "description": null,
+  "icon": "FaFish",
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:20",
+  "updated_at": "2026-08-20 12:28:20"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "d46b546a-8bd2-477c-a09e-81b9c0e826d3",
+  "category_id": "a25e3f52e12a501384d7a74f355c1a27",
+  "name": "Chaat Masala",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:22",
+  "updated_at": "2026-08-20 12:28:22"
+}

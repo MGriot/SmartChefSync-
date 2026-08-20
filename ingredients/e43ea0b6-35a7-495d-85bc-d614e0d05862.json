@@ -1,0 +1,18 @@
+{
+  "id": "e43ea0b6-35a7-495d-85bc-d614e0d05862",
+  "category_id": "f147386a9936aba613100faea726c446",
+  "name": "Montasio",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:25",
+  "updated_at": "2026-08-20 12:28:25"
+}

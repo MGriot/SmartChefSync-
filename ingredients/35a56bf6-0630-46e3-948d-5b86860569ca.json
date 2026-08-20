@@ -1,0 +1,18 @@
+{
+  "id": "35a56bf6-0630-46e3-948d-5b86860569ca",
+  "category_id": "a25e3f52e12a501384d7a74f355c1a27",
+  "name": "Cornstarch",
+  "description": null,
+  "icon": "FaCookie",
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:25",
+  "updated_at": "2026-08-20 12:28:25"
+}

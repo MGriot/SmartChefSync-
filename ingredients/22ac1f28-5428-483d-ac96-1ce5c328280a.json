@@ -1,0 +1,18 @@
+{
+  "id": "22ac1f28-5428-483d-ac96-1ce5c328280a",
+  "category_id": "91be3bb1fcd0b8b5b5eb19d3d300320c",
+  "name": "Tomato Passata",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": 18,
+  "protein_g": 0.9,
+  "carbs_g": 3.9,
+  "fat_g": 0.2,
+  "fiber_g": 1.2,
+  "sugar_g": 2.6,
+  "sodium_mg": 5,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:29",
+  "updated_at": "2026-08-20 12:28:29"
+}

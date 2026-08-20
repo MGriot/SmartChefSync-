@@ -1,0 +1,18 @@
+{
+  "id": "74b841c3-097a-45d7-bf22-48e54f4bc61c",
+  "category_id": "91be3bb1fcd0b8b5b5eb19d3d300320c",
+  "name": "Yellow Onion",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": 40,
+  "protein_g": 1.1,
+  "carbs_g": 9.3,
+  "fat_g": 0.1,
+  "fiber_g": 1.7,
+  "sugar_g": 4.2,
+  "sodium_mg": 4,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:20",
+  "updated_at": "2026-08-20 12:28:20"
+}

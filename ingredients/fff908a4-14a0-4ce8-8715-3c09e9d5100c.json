@@ -1,0 +1,18 @@
+{
+  "id": "fff908a4-14a0-4ce8-8715-3c09e9d5100c",
+  "category_id": "9d2bfa270f317e6b7ad5000780181475",
+  "name": "Extra Virgin Olive Oil",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100,
+  "fiber_g": 0,
+  "sugar_g": 0,
+  "sodium_mg": 2,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:24",
+  "updated_at": "2026-08-20 12:28:24"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "30ea639c-2b5a-4d55-a729-cacd2f2c3273",
+  "category_id": "91be3bb1fcd0b8b5b5eb19d3d300320c",
+  "name": "Red Bell Pepper",
+  "description": null,
+  "icon": "FaPepperHot",
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:19",
+  "updated_at": "2026-08-20 12:28:19"
+}

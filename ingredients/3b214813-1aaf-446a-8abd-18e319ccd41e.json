@@ -1,0 +1,18 @@
+{
+  "id": "3b214813-1aaf-446a-8abd-18e319ccd41e",
+  "category_id": "1c10ed0a375495ed5d5b5cae9a46fab9",
+  "name": "Bread (sliced)",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:28",
+  "updated_at": "2026-08-20 12:28:28"
+}

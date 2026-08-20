@@ -1,0 +1,18 @@
+{
+  "id": "979ee370-6887-4b23-b8aa-308290b5fdd2",
+  "category_id": "9d2bfa270f317e6b7ad5000780181475",
+  "name": "Ghee",
+  "description": null,
+  "icon": "FaDroplet",
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:21",
+  "updated_at": "2026-08-20 12:28:21"
+}

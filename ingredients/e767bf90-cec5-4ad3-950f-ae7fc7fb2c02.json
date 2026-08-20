@@ -1,0 +1,18 @@
+{
+  "id": "e767bf90-cec5-4ad3-950f-ae7fc7fb2c02",
+  "category_id": "19123b55ea96d6ddf3f2804d34351a53",
+  "name": "Chicken Breast",
+  "description": null,
+  "icon": "FaDrumstickBite",
+  "image_urls": "[]",
+  "calories_kcal": 165,
+  "protein_g": 31,
+  "carbs_g": 0,
+  "fat_g": 3.6,
+  "fiber_g": 0,
+  "sugar_g": 0,
+  "sodium_mg": 74,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:20",
+  "updated_at": "2026-08-20 12:28:20"
+}

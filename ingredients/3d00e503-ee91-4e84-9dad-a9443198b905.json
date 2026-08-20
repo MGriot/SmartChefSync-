@@ -1,0 +1,18 @@
+{
+  "id": "3d00e503-ee91-4e84-9dad-a9443198b905",
+  "category_id": "15fc7273b8d09447737eda7669d188ce",
+  "name": "Lemon Juice",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": 29,
+  "protein_g": 1.1,
+  "carbs_g": 9.3,
+  "fat_g": 0.3,
+  "fiber_g": 2.8,
+  "sugar_g": 2.5,
+  "sodium_mg": 2,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:23",
+  "updated_at": "2026-08-20 12:28:23"
+}
