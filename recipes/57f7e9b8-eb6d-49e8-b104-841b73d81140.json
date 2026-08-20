@@ -11,7 +11,7 @@
   "yield_amount": null,
   "yield_unit_id": null,
   "tags": "[\"fish\",\"fried\",\"potatoe\",\"piatto unico\",\"Pesce\",\"Glutine\",\"Lattosio\"]",
-  "regions": "[]",
+  "regions": "[\"GB\"]",
   "region_coords": "{}",
   "cover_image_url": "https://chefincamicia.com/wp-content/uploads/2021/02/10-02-2021_CINC_brexit-fish-and-chips_WEB.jpg",
   "source_url": "https://chefincamicia.com/ricetta/fish-and-chips-brexit/?utm_source=youtube&utm_medium=organic&utm_campaign=fishandchips_brexit",
@@ -22,10 +22,10 @@
   "creator_name": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-08-20 12:28:31",
+  "updated_at": "2026-08-20 22:01:15",
   "ingredients": [
     {
-      "id": "b6f0a424-bbf8-4f24-a510-b69da92f0254",
+      "id": "fdef05b1-375b-41fa-a105-054fbc4b9f53",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 0,
       "ingredient_id": "c11ecf54-2df1-48e7-9a32-157a0a0f5a68",
@@ -36,10 +36,10 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "31f671ad-1501-4341-9fd9-f87466460653",
+      "id": "6d19100f-552c-4c47-818f-6b930aa02a86",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 1,
       "ingredient_id": "b9775c67-87d6-4bca-bf9a-82c895d51ae1",
@@ -50,10 +50,10 @@
       "unit_id": null,
       "notes": "BREXIT sì — ](https://chefincamicia.com/tag/farina-00/#section) 250 g",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "24f790f8-28b7-4cff-a993-137786eb9eac",
+      "id": "12112dac-4bde-4cb9-9010-653989f53b55",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 2,
       "ingredient_id": "32149bbd-e46a-4349-a1ec-80fadb8f98a6",
@@ -64,10 +64,10 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "07d07b2f-1f3c-40fe-a907-0bf9ba745e97",
+      "id": "9ff20a04-e486-4778-ae99-25b5b04a51b7",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 3,
       "ingredient_id": "35a56bf6-0630-46e3-948d-5b86860569ca",
@@ -78,10 +78,10 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "ee6a7166-e423-411e-9066-dfed6296e6b2",
+      "id": "628746b9-010d-422c-8449-5c5b5d323336",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 4,
       "ingredient_id": "a060d837-ab97-45f1-8430-1fe429619a2f",
@@ -92,10 +92,10 @@
       "unit_id": null,
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "aa7d731f-7ea8-442a-aeb5-d50a622dd70b",
+      "id": "4170512a-30a0-47e0-b1dc-bfdd8c5c1475",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 5,
       "ingredient_id": "46217f57-deea-4c87-9855-08db15bdbbe7",
@@ -106,10 +106,10 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "0813b37f-a39e-4355-9fca-688d40abb34f",
+      "id": "bd8b2ccc-e0d6-4098-8e2e-3a2f7d9a21e5",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 6,
       "ingredient_id": "a55cd1fe-f00d-4b8a-b960-0c09c4355054",
@@ -120,10 +120,10 @@
       "unit_id": null,
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "fc7978ed-9907-4233-be40-8ca1491cc8d6",
+      "id": "ca0044d9-85cf-4568-8e6d-b4aeb76106af",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 7,
       "ingredient_id": "648b684e-a861-4668-94a9-2f9c7bb70351",
@@ -134,10 +134,10 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "9a96cbab-291d-4cdd-a6b2-94c9ad7872c8",
+      "id": "b040ec29-ec8c-4786-b000-4fcc91fbf91b",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 8,
       "ingredient_id": "b9775c67-87d6-4bca-bf9a-82c895d51ae1",
@@ -148,10 +148,10 @@
       "unit_id": null,
       "notes": "BREXIT no — ](https://chefincamicia.com/tag/farina-00/#section) 250 g",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "4b4fb989-9b05-4cfe-a703-579f839088d5",
+      "id": "4a72027f-2dc9-4366-96f9-f38ef9a561d4",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 9,
       "ingredient_id": "35a56bf6-0630-46e3-948d-5b86860569ca",
@@ -162,10 +162,10 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "91e8d2c6-cc43-4655-be6c-77a99f513f79",
+      "id": "0014dce5-8ae3-4652-a7f0-5ceae09c700c",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 10,
       "ingredient_id": "66c74f7a-c41e-4074-85e1-68c3c34a640e",
@@ -176,10 +176,10 @@
       "unit_id": null,
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "a0249d07-77a9-4aff-8c22-8a0a8426302a",
+      "id": "0290fce9-6e81-4741-9036-69c6852b7ad4",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 11,
       "ingredient_id": "fff908a4-14a0-4ce8-8715-3c09e9d5100c",
@@ -190,10 +190,10 @@
       "unit_id": null,
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "ff63662b-6c4d-4065-ab03-dcff69654fcc",
+      "id": "80f8c79c-a836-46cf-b11b-8af769d17c78",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 12,
       "ingredient_id": "4f1319b1-65a6-43fd-9b57-700a70237c41",
@@ -204,10 +204,10 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "b106087f-5ea5-41f7-a63f-1ca66eeea2c8",
+      "id": "d5a8bc24-ac7f-4550-8867-a475affc0b2d",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 13,
       "ingredient_id": "7dd98f73-0c12-43ab-a78a-5e79cea7c1a4",
@@ -218,10 +218,10 @@
       "unit_id": null,
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     },
     {
-      "id": "8302ebf5-9ec2-43d6-9f25-4b19ef4348e2",
+      "id": "4e28ee57-edd9-4715-8b9f-12b6319cf99c",
       "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
       "sort_order": 14,
       "ingredient_id": "c31d334e-6aef-4dbc-8890-98f53ef2ca56",
@@ -232,7 +232,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 22:01:15"
     }
   ],
   "steps": [],
