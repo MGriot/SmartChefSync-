@@ -23,6 +23,8 @@
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:32",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "da3404a8-2ad5-4b18-9b0e-1f0dc7e5a4a2",
@@ -36,7 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "proteine: 210g (30% della farina totale)",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "1f99f59c-3b4f-4fa3-87de-80ec74eb7184",
@@ -50,7 +53,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "proteine: 509g (70% della farina totale)",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "b50c3ad8-b972-4065-a2b0-a62caad5f192",
@@ -64,7 +68,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "(fresco) o 27g (lievito madre) o 0,09g (secco)",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "0fb2822b-7b76-4caf-8691-f50f3f3456a4",
@@ -78,7 +83,8 @@
       "unit_id": null,
       "notes": "centigradi): 453g",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "1437162b-4128-453d-9f16-68f5caaf7604",
@@ -92,7 +98,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "75de44d7-abb1-4704-bc7a-42646e237827",
@@ -106,7 +113,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     }
   ],
   "steps": [
@@ -121,7 +129,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "bf5e6738-158a-40e9-bc00-ce7ed263a84f",
@@ -134,7 +143,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "636415d1-30e4-4d06-a4d6-e7b1e3a15c7a",
@@ -147,7 +157,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "da8d4e55-93c9-46ed-9820-ebac935ee0da",
@@ -160,7 +171,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "8d5d5e44-4c4b-4fca-8110-a72ca60a5ce8",
@@ -173,7 +185,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "3e15a572-c91a-4638-a54a-49ba3dd0873a",
@@ -186,7 +199,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "9b806d67-3daa-4778-8464-47e0a21c7fdc",
@@ -199,7 +213,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "16543925-b1fc-4ed2-99c4-9d41f9b0e81c",
@@ -212,7 +227,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "effca50b-42ae-4246-866b-f0cf7da83097",
@@ -225,7 +241,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "f84f258e-9ed7-4ffc-b6f9-52ab4a3e60cc",
@@ -238,7 +255,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "b4c1343f-d5dd-40f6-948d-53ab1d4c604c",
@@ -251,7 +269,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "ba59f9ed-1f7b-427e-8bf0-0bfff0211d54",
@@ -264,7 +283,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "b0fde235-52d6-4b4a-8646-19e5a5e96373",
@@ -277,7 +297,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "2cf78e03-a05e-4e7e-ae1c-6e43b231b94a",
@@ -290,7 +311,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     }
   ],
   "toolIds": []
