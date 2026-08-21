@@ -1,0 +1,21 @@
+{
+  "id": "4dabe79a-d008-4655-b3be-362f321fd06d",
+  "category_id": "19123b55ea96d6ddf3f2804d34351a53",
+  "name": "Chiken",
+  "description": null,
+  "icon": "FaDrumstickBite",
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-21 18:44:58",
+  "updated_at": "2026-08-21 18:44:58",
+  "seasonal_months": "[]",
+  "synonyms": "[]",
+  "parent_ingredient_id": null
+}
