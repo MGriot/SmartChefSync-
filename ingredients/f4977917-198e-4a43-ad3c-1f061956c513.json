@@ -1,0 +1,21 @@
+{
+  "id": "f4977917-198e-4a43-ad3c-1f061956c513",
+  "category_id": "f147386a9936aba613100faea726c446",
+  "name": "burro",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": 717,
+  "protein_g": 0.9,
+  "carbs_g": 0.1,
+  "fat_g": 81,
+  "fiber_g": 0,
+  "sugar_g": 0.1,
+  "sodium_mg": 11,
+  "sync_status": "local",
+  "created_at": "2026-08-21 08:16:21",
+  "updated_at": "2026-08-21 08:16:21",
+  "seasonal_months": "[]",
+  "synonyms": "[]",
+  "parent_ingredient_id": null
+}
