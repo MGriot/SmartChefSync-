@@ -23,6 +23,8 @@
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:32",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "312e0a19-a286-482c-b0c8-ed3f96ae0779",
@@ -36,7 +38,8 @@
       "unit_id": "a7602f16b157651de713403c8f009f6d",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "8b2bcc73-b10f-4961-8243-7b1b27509faf",
@@ -50,7 +53,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "e7a36a9a-640d-44b4-97ef-8ae223d3922e",
@@ -64,7 +68,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "48443e3e-b29a-41ec-b370-b602e7332ff3",
@@ -78,7 +83,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "523e22b5-5970-448c-b8e8-f9b09625691f",
@@ -92,7 +98,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "25c739ef-b9c3-4753-9e5c-37253bee9882",
@@ -106,7 +113,8 @@
       "unit_id": "d548bb01f882fe6fbece1aa7e67f8de8",
       "notes": "red chilli powder",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "d3201db3-1d03-4262-b9bf-10cbc49a9152",
@@ -120,7 +128,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "c21b52e5-0fef-4172-82ae-16111477dad7",
@@ -134,7 +143,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "f1f820ef-0403-4f9a-bcdf-32a2f29b24ca",
@@ -148,7 +158,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "023ccfb0-9fa2-4104-9cf7-cf21b44d0a46",
@@ -162,7 +173,8 @@
       "unit_id": "d548bb01f882fe6fbece1aa7e67f8de8",
       "notes": "cumin powder",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "bd9a9240-b909-4ada-b536-ace153804971",
@@ -176,7 +188,8 @@
       "unit_id": "d548bb01f882fe6fbece1aa7e67f8de8",
       "notes": "black pepper",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "4195faab-1dd2-4f32-8f51-b510a25664d0",
@@ -190,9 +203,67 @@
       "unit_id": "a7602f16b157651de713403c8f009f6d",
       "notes": "virgin olive oil",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "id": "75a4b32e-3cd7-4f4c-944e-8aa1ea6192a2",
+      "recipe_id": "8650f6f2-f2ce-4581-ae6f-d5a4d58187b1",
+      "step_number": 1,
+      "title": "Soak and boil the soybeans",
+      "description": "Wash the soybeans and soak them overnight. The next day, boil them in a pressure cooker for 1-2 whistles.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "6e663429-c4df-402c-be85-747b3f1dc9aa",
+      "recipe_id": "8650f6f2-f2ce-4581-ae6f-d5a4d58187b1",
+      "step_number": 2,
+      "title": "Chop the herbs",
+      "description": "Wash and finely chop the coriander leaves, parsley, and spring onion.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "0eec66b0-4b5b-4475-8a9f-48afea363419",
+      "recipe_id": "8650f6f2-f2ce-4581-ae6f-d5a4d58187b1",
+      "step_number": 3,
+      "title": "Make the falafel mixture",
+      "description": "In a large bowl, squeeze out the excess water from the boiled soybeans. Add the chopped coriander, parsley, spring onion, and garlic, and mix well. Soak a slice of bread in a little water, squeeze it out, and add it to the soybean mixture to give a grainy texture. Add baking soda, cumin powder, salt, and pepper, mix well, and let the mixture rest briefly.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "df5bb34d-f068-4b9b-a0f4-30e5cec36f41",
+      "recipe_id": "8650f6f2-f2ce-4581-ae6f-d5a4d58187b1",
+      "step_number": 4,
+      "title": "Shallow-fry the falafel",
+      "description": "Shape the mixture into small balls and place them on a tray. Heat oil in a wok over medium flame, and once hot, shallow-fry the falafel until done. Serve hot with hummus or mayonnaise.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    }
+  ],
   "toolIds": []
 }
