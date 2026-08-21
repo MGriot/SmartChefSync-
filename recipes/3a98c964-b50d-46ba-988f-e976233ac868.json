@@ -10,7 +10,7 @@
   "rating": null,
   "yield_amount": 140,
   "yield_unit_id": null,
-  "tags": "[\"vegan\",\"gluten-free\",\"Contorno\",\"middle eastern\",\"Vegetariano\",\"Vegano\"]",
+  "tags": "[\"Vegano\",\"gluten-free\",\"Contorno\",\"middle eastern\",\"Vegetariano\"]",
   "regions": "[]",
   "region_coords": "{}",
   "cover_image_url": "https://media-assets.lacucinaitaliana.it/photos/61fac2eb343081efb9ad3879/master/w_1280,c_limit/tahina.jpg",
@@ -22,7 +22,7 @@
   "creator_name": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-08-21 17:17:10",
+  "updated_at": "2026-08-21 17:19:50",
   "storage_instructions": "Conservare in un barattolo ermetico in frigorifero. Mescolare bene prima dell'uso poiché l'olio tende a separarsi dalla pasta.",
   "tips": "Puoi personalizzare la tahina aggiungendo spezie come curry, curcuma, cumino, coriandolo o peperoncino. In alternativa al mortaio, puoi usare un frullatore o tritatutto per una consistenza più liscia.",
   "ingredients": [
