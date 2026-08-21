@@ -22,12 +22,12 @@
   "creator_name": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-08-21 17:19:50",
+  "updated_at": "2026-08-21 18:38:41",
   "storage_instructions": "Conservare in un barattolo ermetico in frigorifero. Mescolare bene prima dell'uso poiché l'olio tende a separarsi dalla pasta.",
   "tips": "Puoi personalizzare la tahina aggiungendo spezie come curry, curcuma, cumino, coriandolo o peperoncino. In alternativa al mortaio, puoi usare un frullatore o tritatutto per una consistenza più liscia.",
   "ingredients": [
     {
-      "id": "ca704079-9039-4fd2-a835-72530782dab1",
+      "id": "5e45a1e1-27d8-485e-9bcf-38bb0c50444d",
       "recipe_id": "3a98c964-b50d-46ba-988f-e976233ac868",
       "sort_order": 0,
       "ingredient_id": "ec7385dd-594c-4e5a-ad9c-6f3de92782c0",
@@ -38,11 +38,11 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 13:18:24",
+      "created_at": "2026-08-21 18:38:41",
       "group_name": null
     },
     {
-      "id": "ccb3b230-658e-47f5-a2e0-b3349f95cc98",
+      "id": "83c44014-84be-4d64-a099-64b72b98bec6",
       "recipe_id": "3a98c964-b50d-46ba-988f-e976233ac868",
       "sort_order": 1,
       "ingredient_id": "37028545-6f21-463e-b50d-43c106f375dc",
@@ -53,11 +53,11 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Sostituibile con olio di semi leggero",
       "is_optional": 0,
-      "created_at": "2026-08-21 13:18:24",
+      "created_at": "2026-08-21 18:38:41",
       "group_name": null
     },
     {
-      "id": "86fb25da-715b-4647-af55-7fa280ca30e4",
+      "id": "52df04ec-1b7d-4ed0-9580-a1a88c182fe4",
       "recipe_id": "3a98c964-b50d-46ba-988f-e976233ac868",
       "sort_order": 2,
       "ingredient_id": "2bed7d61-aa99-4cfb-9189-e4e6fe001e71",
@@ -68,11 +68,11 @@
       "unit_id": null,
       "notes": "Per regolare la densità",
       "is_optional": 0,
-      "created_at": "2026-08-21 13:18:24",
+      "created_at": "2026-08-21 18:38:41",
       "group_name": null
     },
     {
-      "id": "22df46cf-fb18-4a29-8b1f-33ff2ffe43fe",
+      "id": "6a924e33-3c2d-4e8b-9b5d-86bb9177b6c9",
       "recipe_id": "3a98c964-b50d-46ba-988f-e976233ac868",
       "sort_order": 3,
       "ingredient_id": "7dd98f73-0c12-43ab-a78a-5e79cea7c1a4",
@@ -83,13 +83,13 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 13:18:24",
+      "created_at": "2026-08-21 18:38:41",
       "group_name": null
     }
   ],
   "steps": [
     {
-      "id": "b00c38e8-16ab-46a3-ac3b-d6b2fa3de53f",
+      "id": "0b94b03c-c6e1-41e8-961b-176f81de8531",
       "recipe_id": "3a98c964-b50d-46ba-988f-e976233ac868",
       "step_number": 1,
       "title": "Tostatura dei semi",
@@ -99,11 +99,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"dc6359fe-0e93-4800-a921-0fbcfb2c0778\"}]",
-      "created_at": "2026-08-21 13:18:24",
+      "created_at": "2026-08-21 18:38:41",
       "technique_ids": "[]"
     },
     {
-      "id": "8059bf47-d230-40a3-834f-6a957d38f8c0",
+      "id": "1b46d12b-544b-4523-af86-8d34cbd2c1a1",
       "recipe_id": "3a98c964-b50d-46ba-988f-e976233ac868",
       "step_number": 2,
       "title": "Lavorazione al mortaio",
@@ -113,11 +113,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"2985af23-48ff-4d89-a424-30f3a73f0181\"},{\"ingredientId\":\"d62744ee-6d79-46e4-a4cf-416572f426e7\"}]",
-      "created_at": "2026-08-21 13:18:24",
+      "created_at": "2026-08-21 18:38:41",
       "technique_ids": "[]"
     },
     {
-      "id": "66a3e6a8-e281-464c-9acb-17e448e06e78",
+      "id": "76d446cd-b8ae-4384-94ce-d0f724c91a5c",
       "recipe_id": "3a98c964-b50d-46ba-988f-e976233ac868",
       "step_number": 3,
       "title": "Emulsione e finitura",
@@ -127,7 +127,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"2bed7d61-aa99-4cfb-9189-e4e6fe001e71\"}]",
-      "created_at": "2026-08-21 13:18:24",
+      "created_at": "2026-08-21 18:38:41",
       "technique_ids": "[]"
     }
   ],
