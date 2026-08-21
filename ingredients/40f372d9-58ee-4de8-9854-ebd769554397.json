@@ -1,0 +1,21 @@
+{
+  "id": "40f372d9-58ee-4de8-9854-ebd769554397",
+  "category_id": "91be3bb1fcd0b8b5b5eb19d3d300320c",
+  "name": "Cipolla",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-21 08:16:21",
+  "updated_at": "2026-08-21 08:16:21",
+  "seasonal_months": "[]",
+  "synonyms": "[]",
+  "parent_ingredient_id": null
+}
