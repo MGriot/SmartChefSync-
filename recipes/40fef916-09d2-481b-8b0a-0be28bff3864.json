@@ -10,7 +10,7 @@
   "rating": null,
   "yield_amount": null,
   "yield_unit_id": null,
-  "tags": "[\"secondi piatti\",\"cucina mediterranea\",\"pesce\",\"couscous\",\"estivo\",\"leggero\",\"Vegetariano\",\"Vegano\"]",
+  "tags": "[\"Secondo\",\"cucina mediterranea\",\"pesce\",\"couscous\",\"estivo\",\"leggero\",\"Vegetariano\",\"Vegano\"]",
   "regions": "[]",
   "region_coords": "{}",
   "cover_image_url": null,
@@ -22,7 +22,9 @@
   "creator_name": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-08-20 12:28:30",
+  "updated_at": "2026-08-21 17:19:54",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "be94eff9-c0a2-458a-9709-670dcae8a816",
@@ -36,7 +38,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "9b8edcaf-953a-4beb-8b20-d3b785f24b25",
@@ -50,7 +53,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "21ee49d5-f947-4a6f-a537-b8456b8ad731",
@@ -64,7 +68,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "0b111bad-50eb-4b43-a315-0e93e269adb5",
@@ -78,7 +83,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "cd2ce71c-83ee-4e13-b416-83c6b3535b4d",
@@ -92,7 +98,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "b70455c7-909f-4029-bb5b-0cbdcdd5502a",
@@ -106,7 +113,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "fa3edae6-7313-43cd-8c38-b0a7dbe96e5b",
@@ -120,7 +128,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "b1b3d3b8-9a4c-46ab-974f-8f6d5970aece",
@@ -134,7 +143,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "80505a98-d617-4455-af92-1aa366b112f7",
@@ -148,7 +158,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "485f5b80-7d25-4e4a-bf22-990b0833c3d3",
@@ -162,7 +173,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "6ffe6f61-c06d-4256-8514-b934e9923fd4",
@@ -176,7 +188,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "9148873d-d225-4099-b5f8-d99fab8449f7",
@@ -190,7 +203,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "4bc3d3a6-c0dc-4bd4-82c8-065f43d5e5dc",
@@ -204,7 +218,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "6d067705-52af-4649-9bcf-e017d2b9944a",
@@ -218,7 +233,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "c441b693-b3bf-4b99-a1fd-4ceeb4c65a28",
@@ -232,7 +248,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     }
   ],
   "steps": [
@@ -247,7 +264,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     },
     {
       "id": "841785e5-3915-4160-9c09-eb71693cd923",
@@ -260,7 +278,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     },
     {
       "id": "9dce188e-c6b8-4f5b-83ba-155087910a60",
@@ -273,7 +292,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     },
     {
       "id": "15fb61e8-be5c-4f2e-88c8-f1e2abd83ced",
@@ -286,7 +306,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     },
     {
       "id": "ac8b71b9-f4ed-4c86-80fe-37db5e7a2777",
@@ -299,7 +320,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     }
   ],
   "toolIds": []
