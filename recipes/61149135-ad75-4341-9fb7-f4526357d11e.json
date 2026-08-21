@@ -23,6 +23,8 @@
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:32",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "71f6c20c-19fb-4482-8789-17aa3c1f8738",
@@ -36,7 +38,8 @@
       "unit_id": null,
       "notes": "di salsa di soia",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "9afde4b4-1e16-41f1-91f3-33fbfd7dfaa6",
@@ -50,7 +53,8 @@
       "unit_id": null,
       "notes": "di succo di pompelmo",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "543389d5-0431-4fcd-ac62-7fd7aefa158a",
@@ -64,7 +68,8 @@
       "unit_id": null,
       "notes": "di succo di limone",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "b8b61ee3-c8ba-4a81-95cf-67556e3ada34",
@@ -78,7 +83,8 @@
       "unit_id": null,
       "notes": "di aceto di riso giapponese",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     }
   ],
   "steps": [
@@ -93,7 +99,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     }
   ],
   "toolIds": []
