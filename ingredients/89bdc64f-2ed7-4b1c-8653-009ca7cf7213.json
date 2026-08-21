@@ -1,0 +1,21 @@
+{
+  "id": "89bdc64f-2ed7-4b1c-8653-009ca7cf7213",
+  "category_id": "a25e3f52e12a501384d7a74f355c1a27",
+  "name": "Baccello di vaniglia",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-21 08:16:21",
+  "updated_at": "2026-08-21 08:16:21",
+  "seasonal_months": "[]",
+  "synonyms": "[]",
+  "parent_ingredient_id": null
+}
