@@ -23,6 +23,8 @@
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:31",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "f1c94b9b-af84-48b2-bf56-f7abe806b9fa",
@@ -36,7 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "ec1a0310-4d60-4c3f-85eb-8727a8d035dd",
@@ -50,7 +53,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "f7e2d0bd-c320-477f-b641-045f60f325e6",
@@ -64,7 +68,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "b19c72d3-7604-4713-bd84-3057722bc6d4",
@@ -78,7 +83,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "f741953e-5683-44db-99cc-eb6370fe9f56",
@@ -92,7 +98,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "7452e823-9d33-429f-8dab-1b8ae8e63e3d",
@@ -106,7 +113,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "b88e3985-1ba6-48a2-80ae-9a4c9734d83b",
@@ -120,9 +128,95 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "id": "15a6ca33-8319-4639-97cf-bc37a2eab788",
+      "recipe_id": "2351d1d9-c466-41da-a941-e1dd323a94d2",
+      "step_number": 1,
+      "title": null,
+      "description": "Per preparare i felafel, cominciate la sera prima mettendo in ammollo i ceci secchi in acqua fredda per almeno 12 ore. Trascorso il tempo di ammollo, scolate i ceci e sciacquateli, poi asciugateli accuratamente con un panno pulito: dovranno risultare perfettamente asciutti al momento dell'utilizzo per garantire un impasto della giusta consistenza (per sicurezza potete asciugarli ulteriormente per 10 minuti in forno ventilato preriscaldato a 100°). A questo punto versate i ceci in un mixer.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "6858d958-a9f6-49d3-bf48-ca37a69f04ae",
+      "recipe_id": "2351d1d9-c466-41da-a941-e1dd323a94d2",
+      "step_number": 2,
+      "title": null,
+      "description": "Tagliate la cipolla a pezzi grossolani e aggiungetela nel mixer insieme allo spicchio di aglio schiacciato o spremuto.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "db9b1a1c-88db-4542-b4b1-93ec62858e9f",
+      "recipe_id": "2351d1d9-c466-41da-a941-e1dd323a94d2",
+      "step_number": 3,
+      "title": null,
+      "description": "Insaporite con sale, pepe e cumino. Azionate il mixer per tritare tutti gli ingredienti.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "2e572f55-9cfb-4795-ba63-72ee48bc525b",
+      "recipe_id": "2351d1d9-c466-41da-a941-e1dd323a94d2",
+      "step_number": 4,
+      "title": null,
+      "description": "Tritate il prezzemolo a parte e unitelo al composto: è importante non sminuzzarlo direttamente nel mixer perché rilascerebbe troppa acqua compromettendo la consistenza del composto. Frullate ancora per amalgamare il tutto, poi trasferite l'impasto ottenuto in una pirofila e compattatelo con il dorso di un cucchiaio o una marisa. Coprite con pellicola a contatto e lasciate riposare in frigorifero per almeno un'ora.",
+      "duration_min": 60,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "146660d4-ada5-4a20-a2db-49c604e945e9",
+      "recipe_id": "2351d1d9-c466-41da-a941-e1dd323a94d2",
+      "step_number": 5,
+      "title": null,
+      "description": "Trascorso questo tempo formate i falafel con l'apposito strumento e adagiateli man mano su un vassoio foderato con carta forno. In alternativa potete formare i falafel a mano: prendete delle piccole porzioni di impasto e schiacciatele leggermente tra i palmi delle mani, avendo cura di compattarli molto bene. Procedete in questo modo fino a formare tutti i falafel; con queste dosi ne otterrete una cinquantina.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "49e22b2c-33a5-46d2-bdee-e1b1da506600",
+      "recipe_id": "2351d1d9-c466-41da-a941-e1dd323a94d2",
+      "step_number": 6,
+      "title": null,
+      "description": "Siete pronti per friggere: scaldate l'olio di semi in un pentolino fino alla temperatura di 170° e friggete pochi falafel per volta, aiutandovi con una schiumarola. Non appena saranno belli dorati scolateli e trasferiteli su carta paglia. Servite i vostri falafel ancora caldi!",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    }
+  ],
   "toolIds": []
 }
