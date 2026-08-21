@@ -2,12 +2,12 @@
   "id": "f39dd497-29c0-4b77-ad51-07fc70944702",
   "name": "Appetizer",
   "group_name": "Portata",
-  "color": "#00ced1",
+  "color": "#0db2b5",
   "icon": "FaBowlFood",
   "exclude_tag_ids": "[]",
   "sort_order": 0,
   "deleted_at": null,
   "created_at": "2026-08-21 16:56:20",
-  "updated_at": "2026-08-21 18:31:56",
+  "updated_at": "2026-08-21 18:32:03",
   "synonyms": "[]"
 }
