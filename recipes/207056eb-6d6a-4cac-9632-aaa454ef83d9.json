@@ -1,6 +1,6 @@
 {
   "id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
-  "title": "Marmellata di rabarbaro - Marmellate",
+  "title": "Marmellata di rabarbaro",
   "description": "Consiglio: !Marmellata-di-rabarbaro_9034.jpg",
   "difficulty": "medium",
   "servings": 4,
@@ -13,7 +13,7 @@
   "tags": "[\"confettura\",\"vegetariano\",\"Vegano\"]",
   "regions": "[]",
   "region_coords": "{}",
-  "cover_image_url": "https://www.spadellandia.it/upload/ricette/Marmellata-di-rabarbaro_9034.jpg",
+  "cover_image_url": null,
   "source_url": "https://www.spadellandia.it/dessert/marmellate/marmellata-di-rabarbaro.html",
   "sources": "[{\"url\":\"https://www.spadellandia.it/dessert/marmellate/marmellata-di-rabarbaro.html\",\"type\":\"url\",\"label\":\"Ricetta originale\"}]",
   "is_component": 0,
@@ -22,11 +22,74 @@
   "creator_name": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-08-20 12:28:32",
-  "ingredients": [],
+  "updated_at": "2026-08-21 12:21:03",
+  "storage_instructions": null,
+  "tips": null,
+  "ingredients": [
+    {
+      "id": "84444830-21cb-48af-af90-10b348f0cf15",
+      "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
+      "sort_order": 0,
+      "ingredient_id": "58ee92d7-82b4-40a3-a159-5fddd2b2747a",
+      "subtype_id": null,
+      "sub_recipe_id": null,
+      "quantity": 1.2,
+      "quantity_text": null,
+      "unit_id": "84dc14ef8f0ba215821b1fd6d31e12fc",
+      "notes": null,
+      "is_optional": 0,
+      "created_at": "2026-08-21 12:21:03",
+      "group_name": null
+    },
+    {
+      "id": "7bbe2009-f913-4de6-b0f2-fc485286eb8a",
+      "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
+      "sort_order": 1,
+      "ingredient_id": "f88aa979-3a06-46ac-86c4-e4bcd7e2e682",
+      "subtype_id": null,
+      "sub_recipe_id": null,
+      "quantity": 0.5,
+      "quantity_text": "mezza mela",
+      "unit_id": null,
+      "notes": null,
+      "is_optional": 0,
+      "created_at": "2026-08-21 12:21:03",
+      "group_name": null
+    },
+    {
+      "id": "372b2332-8b37-4ec9-be07-ed6d61a9379f",
+      "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
+      "sort_order": 2,
+      "ingredient_id": "c08ab71e-33c3-4a30-b826-f4ba13d312ac",
+      "subtype_id": null,
+      "sub_recipe_id": null,
+      "quantity": 1,
+      "quantity_text": null,
+      "unit_id": null,
+      "notes": null,
+      "is_optional": 0,
+      "created_at": "2026-08-21 12:21:03",
+      "group_name": null
+    },
+    {
+      "id": "5a115312-0823-4914-a700-7e318513620b",
+      "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
+      "sort_order": 3,
+      "ingredient_id": "0e085d32-52e8-445f-8b5f-1b52f7d52cb7",
+      "subtype_id": null,
+      "sub_recipe_id": null,
+      "quantity": 500,
+      "quantity_text": null,
+      "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
+      "notes": null,
+      "is_optional": 0,
+      "created_at": "2026-08-21 12:21:03",
+      "group_name": null
+    }
+  ],
   "steps": [
     {
-      "id": "a1a050c9-cff4-4865-a895-f1dddc78a532",
+      "id": "56383fc9-b4fa-4d7d-9f78-4b32a0037256",
       "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
       "step_number": 1,
       "title": null,
@@ -36,10 +99,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-21 12:21:03",
+      "technique_ids": "[]"
     },
     {
-      "id": "1e849602-4d52-4ab5-9806-8178d897b16d",
+      "id": "83fe5e56-c66c-4926-a51e-3154e5abadee",
       "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
       "step_number": 2,
       "title": null,
@@ -49,10 +113,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-21 12:21:03",
+      "technique_ids": "[]"
     },
     {
-      "id": "087e5f5c-a603-4415-8427-3b8481857784",
+      "id": "84703c75-efce-4212-bd20-ade95a8feaa0",
       "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
       "step_number": 3,
       "title": null,
@@ -62,10 +127,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-21 12:21:03",
+      "technique_ids": "[]"
     },
     {
-      "id": "d3225e97-a4e4-48b3-b736-cdbcd43eda0f",
+      "id": "78ec9c8e-900d-4d72-abd4-f8afa9a14999",
       "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
       "step_number": 4,
       "title": null,
@@ -75,10 +141,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-21 12:21:03",
+      "technique_ids": "[]"
     },
     {
-      "id": "eb90adaa-c3f1-4cf3-91e3-fcb7a97c7194",
+      "id": "4c0eacfc-7b1c-4e88-b714-fcbc24569994",
       "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
       "step_number": 5,
       "title": null,
@@ -88,10 +155,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-21 12:21:03",
+      "technique_ids": "[]"
     },
     {
-      "id": "266f8898-dd13-48cc-bcfe-306ce8517d19",
+      "id": "1424626d-58e5-4d13-83d5-c947e0fee85a",
       "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
       "step_number": 6,
       "title": null,
@@ -101,10 +169,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-21 12:21:03",
+      "technique_ids": "[]"
     },
     {
-      "id": "32e27f29-2bfc-403e-9322-ac5318a9bfd5",
+      "id": "06ed539b-75a1-4f8d-a315-2ca76074dec5",
       "recipe_id": "207056eb-6d6a-4cac-9632-aaa454ef83d9",
       "step_number": 7,
       "title": null,
@@ -114,7 +183,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-21 12:21:03",
+      "technique_ids": "[]"
     }
   ],
   "toolIds": []
