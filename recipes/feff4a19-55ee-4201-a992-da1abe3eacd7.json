@@ -10,10 +10,10 @@
   "rating": null,
   "yield_amount": null,
   "yield_unit_id": null,
-  "tags": "[\"besciamella\",\"formaggio\",\"gnocchi\",\"montasio\",\"patate\",\"porri\",\"primo\",\"Glutine\",\"Lattosio\",\"Vegetariano\"]",
+  "tags": "[\"besciamella\",\"formaggio\",\"montasio\",\"patate\",\"porri\",\"primo\",\"Glutine\",\"Lattosio\",\"Vegetariano\"]",
   "regions": "[]",
   "region_coords": "{}",
-  "cover_image_url": "https://chefincamicia.com/wp-content/uploads/2020/12/26.11.2019_CINC_gnocchi-montasio-porri_WEB.jpg",
+  "cover_image_url": null,
   "source_url": "https://chefincamicia.com/ricetta/gnocchi-patate-montasio-porri/",
   "sources": "[{\"url\":\"https://chefincamicia.com/ricetta/gnocchi-patate-montasio-porri/\",\"type\":\"url\",\"label\":\"Ricetta originale\"}]",
   "is_component": 0,
@@ -22,7 +22,9 @@
   "creator_name": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-08-20 12:28:31",
+  "updated_at": "2026-08-21 18:32:21",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "bf4d0a01-fd03-4c19-9503-c265a3fdbb00",
@@ -36,7 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per gli gnocchi",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "4bd9ed56-58b1-4905-86b2-e174ab5e2e96",
@@ -50,7 +53,8 @@
       "unit_id": null,
       "notes": "Per gli gnocchi",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "26b8b598-de56-4c33-b57b-86858ae675ba",
@@ -64,7 +68,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per gli gnocchi",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "39beefe9-a7f1-409c-8e15-ebfbdf4d5ee8",
@@ -78,7 +83,8 @@
       "unit_id": null,
       "notes": "Per gli gnocchi",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "56fb5a86-6757-4eb2-b9fe-b3aedcc75220",
@@ -92,7 +98,8 @@
       "unit_id": null,
       "notes": "Per gli gnocchi",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "3ef69bcb-fc11-4f57-86ea-0cd3a11f58ca",
@@ -106,7 +113,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per gli gnocchi — + q.b. per il piano da lavoro",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "0d0c40cc-9414-4473-84ca-2117ab8f4f35",
@@ -120,7 +128,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per la salsa al Montasio — , + q.b",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "d083cef8-66d8-46a7-8381-78003a5950bd",
@@ -134,7 +143,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per la salsa al Montasio",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "d92a5044-585a-462c-839a-f8582f6712b4",
@@ -148,7 +158,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per la salsa al Montasio",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "2544fa70-2885-460d-b13c-cddecd4474c7",
@@ -162,7 +173,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per la salsa al Montasio",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "477561bc-0e8e-45db-8fb7-480be6eab59f",
@@ -176,7 +188,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per la salsa al Montasio",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     }
   ],
   "steps": [
@@ -191,7 +204,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "technique_ids": "[]"
     },
     {
       "id": "7f496e80-f3f5-4081-9cc6-5b5708603e56",
@@ -204,7 +218,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "technique_ids": "[]"
     },
     {
       "id": "bdcba9e3-cf73-4d74-99a5-dce84a7b50d7",
@@ -217,7 +232,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "technique_ids": "[]"
     },
     {
       "id": "4570a576-7168-474d-b3c9-45d251cde98e",
@@ -230,7 +246,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "technique_ids": "[]"
     },
     {
       "id": "d87c2a47-2c80-4976-aa86-c37be6881db8",
@@ -243,7 +260,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "technique_ids": "[]"
     }
   ],
   "toolIds": []
