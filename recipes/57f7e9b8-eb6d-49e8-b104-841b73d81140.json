@@ -10,10 +10,10 @@
   "rating": null,
   "yield_amount": null,
   "yield_unit_id": null,
-  "tags": "[\"fish\",\"fried\",\"potatoe\",\"piatto unico\",\"Pesce\",\"Glutine\",\"Lattosio\"]",
+  "tags": "[\"Pesce\",\"fried\",\"potatoe\",\"piatto unico\",\"Glutine\",\"Lattosio\"]",
   "regions": "[\"GB\"]",
   "region_coords": "{}",
-  "cover_image_url": "https://chefincamicia.com/wp-content/uploads/2021/02/10-02-2021_CINC_brexit-fish-and-chips_WEB.jpg",
+  "cover_image_url": null,
   "source_url": "https://chefincamicia.com/ricetta/fish-and-chips-brexit/?utm_source=youtube&utm_medium=organic&utm_campaign=fishandchips_brexit",
   "sources": "[{\"url\":\"https://chefincamicia.com/ricetta/fish-and-chips-brexit/?utm_source=youtube&utm_medium=organic&utm_campaign=fishandchips_brexit\",\"type\":\"url\",\"label\":\"Ricetta originale\"}]",
   "is_component": 0,
@@ -22,7 +22,9 @@
   "creator_name": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-08-20 22:01:15",
+  "updated_at": "2026-08-21 17:19:29",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "fdef05b1-375b-41fa-a105-054fbc4b9f53",
@@ -36,7 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "6d19100f-552c-4c47-818f-6b930aa02a86",
@@ -50,7 +53,8 @@
       "unit_id": null,
       "notes": "BREXIT sì — ](https://chefincamicia.com/tag/farina-00/#section) 250 g",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "12112dac-4bde-4cb9-9010-653989f53b55",
@@ -64,7 +68,8 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "9ff20a04-e486-4778-ae99-25b5b04a51b7",
@@ -78,7 +83,8 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "628746b9-010d-422c-8449-5c5b5d323336",
@@ -92,7 +98,8 @@
       "unit_id": null,
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "4170512a-30a0-47e0-b1dc-bfdd8c5c1475",
@@ -106,7 +113,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "bd8b2ccc-e0d6-4098-8e2e-3a2f7d9a21e5",
@@ -120,7 +128,8 @@
       "unit_id": null,
       "notes": "BREXIT sì",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "ca0044d9-85cf-4568-8e6d-b4aeb76106af",
@@ -134,7 +143,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "b040ec29-ec8c-4786-b000-4fcc91fbf91b",
@@ -148,7 +158,8 @@
       "unit_id": null,
       "notes": "BREXIT no — ](https://chefincamicia.com/tag/farina-00/#section) 250 g",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "4a72027f-2dc9-4366-96f9-f38ef9a561d4",
@@ -162,7 +173,8 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "0014dce5-8ae3-4652-a7f0-5ceae09c700c",
@@ -176,7 +188,8 @@
       "unit_id": null,
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "0290fce9-6e81-4741-9036-69c6852b7ad4",
@@ -190,7 +203,8 @@
       "unit_id": null,
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "80f8c79c-a836-46cf-b11b-8af769d17c78",
@@ -204,7 +218,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "d5a8bc24-ac7f-4550-8867-a475affc0b2d",
@@ -218,7 +233,8 @@
       "unit_id": null,
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     },
     {
       "id": "4e28ee57-edd9-4715-8b9f-12b6319cf99c",
@@ -232,9 +248,165 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "BREXIT no",
       "is_optional": 0,
-      "created_at": "2026-08-20 22:01:15"
+      "created_at": "2026-08-20 22:01:15",
+      "group_name": null
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "id": "d6784f83-ff78-4086-8024-daf90797a130",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 1,
+      "title": null,
+      "description": "Per prima cosa lavare le patate e tagliarle a coltello a fettine più o meno sottili. Mettere le patate in ammollo in acqua fredda per fargli perdere l'amido. Successivamente asciugare per bene le patate tra due canovacci.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "d79c8fe7-55b1-4fa2-b14a-2fe3314f3132",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 2,
+      "title": null,
+      "description": "Per la pastella, in una ciotola, mescolare la farina con il bicarbonato e l'amido di mais. A questo punto aggiungere la birra Guinness e mescolare fino ad ottenere un composto denso, vellutato e privo di grumi. Far riposare la pastella in frigorifero per almeno 30 minuti.",
+      "duration_min": 30,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "8d5f8c8d-85ee-42fa-bf3b-20df09beee41",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 3,
+      "title": null,
+      "description": "Nel frattempo cuocere le patate, ormai asciutte, in abbondante olio di semi per friggere ben caldo (circa 160°C). Una volta pronte scolare il tutto su carta assorbente.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "06e38c74-dda3-4c35-97dd-6ca7405f309d",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 4,
+      "title": null,
+      "description": "A questo punto, passare il filetto di merluzzo nella pastella e friggere il tutto in abbondante olio di semi ben caldo fino a quando il pesce non sarà cotto, dorato e croccante.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "19d8819b-4e63-4904-95b0-7b66aae35a99",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 5,
+      "title": null,
+      "description": "Scolare il tutto su carta assorbente e asciugare per bene dall'olio in eccesso. Impiattare il pesce accompagnandolo con le patatine fritte e una spruzzata di aceto di malto.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "f9568e5a-6cdc-4a69-907a-78eee197071c",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 6,
+      "title": null,
+      "description": "Per prima cosa lavare le patate (viola) e tagliarle a coltello a fettine più o meno sottili. Mettere le patate in ammollo in acqua fredda per fargli perdere l'amido. Successivamente asciugare per bene le patate tra due canovacci.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "a5e3c67c-060c-406e-8765-4dc7d968134d",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 7,
+      "title": null,
+      "description": "Per la pastella, in una ciotola, mescolare la farina e l'amido di mais. A questo punto aggiungere la birra rossa e mescolare fino ad ottenere un composto denso, vellutato e privo di grumi. Far riposare la pastella in frigorifero per almeno 30 minuti.",
+      "duration_min": 30,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "18c9c187-7bd5-44b6-81a6-5ff467513391",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 8,
+      "title": null,
+      "description": "Preparare la salsa di yogurt mescolando yogurt greco, olio extravergine di oliva e sale fino.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "1523668d-9d39-4bf9-aa8e-9124a4d3329a",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 9,
+      "title": null,
+      "description": "Nel frattempo cuocere le patate, ormai asciutte, in abbondante olio di semi per friggere ben caldo (circa 160°C). Una volta pronte scolare il tutto su carta assorbente.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "c6eea45d-c3ca-4971-8975-3b8a8d6e2ab9",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 10,
+      "title": null,
+      "description": "A questo punto, passare i filetti di orata nella pastella e friggerli in abbondante olio di semi ben caldo fino a quando non saranno cotti, dorati e croccanti.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    },
+    {
+      "id": "f0fabf42-e497-4cca-b371-48cd15d01a1c",
+      "recipe_id": "57f7e9b8-eb6d-49e8-b104-841b73d81140",
+      "step_number": 11,
+      "title": null,
+      "description": "Scolare il tutto su carta assorbente e asciugare per bene dall'olio in eccesso. Impiattare il pesce accompagnandolo con le patatine fritte e la salsa allo yogurt.",
+      "duration_min": null,
+      "tool_ids": "[]",
+      "notes": null,
+      "image_url": null,
+      "step_ingredients": "[]",
+      "created_at": "2026-08-21 08:16:22",
+      "technique_ids": "[]"
+    }
+  ],
   "toolIds": []
 }
