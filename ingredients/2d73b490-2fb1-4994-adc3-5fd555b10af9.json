@@ -1,0 +1,21 @@
+{
+  "id": "2d73b490-2fb1-4994-adc3-5fd555b10af9",
+  "category_id": "d4d214bd7688a52ec392b4de5d54eb27",
+  "name": "Origano fresco",
+  "description": null,
+  "icon": null,
+  "image_urls": "[]",
+  "calories_kcal": null,
+  "protein_g": null,
+  "carbs_g": null,
+  "fat_g": null,
+  "fiber_g": null,
+  "sugar_g": null,
+  "sodium_mg": null,
+  "sync_status": "local",
+  "created_at": "2026-08-21 08:16:21",
+  "updated_at": "2026-08-21 08:16:21",
+  "seasonal_months": "[]",
+  "synonyms": "[]",
+  "parent_ingredient_id": null
+}
