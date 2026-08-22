@@ -3,7 +3,7 @@
   "category_id": "f147386a9936aba613100faea726c446",
   "name": "Parmigiano Reggiano",
   "description": null,
-  "icon": null,
+  "icon": "FaCheese",
   "image_urls": "[]",
   "calories_kcal": 143,
   "protein_g": 12.6,
@@ -14,7 +14,7 @@
   "sodium_mg": 142,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:23",
-  "updated_at": "2026-08-20 12:28:23",
+  "updated_at": "2026-08-22 14:29:40",
   "seasonal_months": "[]",
   "synonyms": "[]",
   "parent_ingredient_id": null
