@@ -13,7 +13,7 @@
   "tags": "[\"soia\",\"vegetariano\",\"primo\",\"Vegano\"]",
   "regions": "[]",
   "region_coords": "{}",
-  "cover_image_url": "https://c.ndtvimg.com/2020-01/pedb3bio_masala-soyabean_625x300_24_January_20.jpg",
+  "cover_image_url": null,
   "source_url": "https://food.ndtv.com/recipe-masala-soybeans-98747",
   "sources": "[{\"url\":\"https://food.ndtv.com/recipe-masala-soybeans-98747\",\"type\":\"url\",\"label\":\"Ricetta originale\"}]",
   "is_component": 0,
@@ -22,7 +22,9 @@
   "creator_name": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-08-20 12:28:32",
+  "updated_at": "2026-08-21 08:19:29",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "3a5aa9f8-71d3-4ebd-96c6-d72415e47c8c",
@@ -36,7 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Soybean (whole)",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "5e5fca93-407c-4a35-a91d-b8c920bac4c9",
@@ -50,7 +53,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "f33a0337-6205-4b74-b4e7-8a1ebeeb1a4a",
@@ -64,7 +68,8 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "8af36cae-3945-4c33-afe1-c2d54b7f99cc",
@@ -78,7 +83,8 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "b50fbfe9-5e1c-445d-9f88-e825d7f1c155",
@@ -92,7 +98,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "70d7e2ee-1bb5-4c13-8b78-10c74d78d9a4",
@@ -106,7 +113,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "d25fd5e8-1598-46c9-b034-f0fde94ba1c7",
@@ -120,7 +128,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "b08f6a3b-1a8d-493c-bbb5-75e7c9f0afed",
@@ -134,7 +143,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "c7c17294-6cbc-4454-a7d5-6730747ae6d6",
@@ -148,7 +158,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "7f2d2b6b-9db8-401e-a600-1a9da3f7318c",
@@ -162,7 +173,8 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     },
     {
       "id": "00a03b13-b518-48dd-a9eb-86ae1ce0a876",
@@ -176,7 +188,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "group_name": null
     }
   ],
   "steps": [
@@ -191,7 +204,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "4dab6403-8a4f-4b0f-b9a6-dace11a564d6",
@@ -204,7 +218,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "a49077c5-84b6-484d-943f-6c8142fd266f",
@@ -217,7 +232,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "fb72c0ae-3101-4a44-bb02-1f73e8a57838",
@@ -230,7 +246,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "ed73efd3-c80b-47d5-bc96-19419a36503b",
@@ -243,7 +260,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "44138ada-9b72-406b-98dd-77f95cdcb86e",
@@ -256,7 +274,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "122f779d-eefb-4a5b-8a6f-3b3b22943008",
@@ -269,7 +288,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     },
     {
       "id": "f4feb9b2-2923-4867-af5e-d919426c9d0e",
@@ -282,7 +302,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:32"
+      "created_at": "2026-08-20 12:28:32",
+      "technique_ids": "[]"
     }
   ],
   "toolIds": []

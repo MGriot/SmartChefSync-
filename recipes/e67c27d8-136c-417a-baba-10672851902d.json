@@ -23,6 +23,8 @@
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:29",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "33fcdbb5-5358-4579-96a1-b8c76863359a",
@@ -36,7 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "1 kg di impasto",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:29"
+      "created_at": "2026-08-20 12:28:29",
+      "group_name": null
     },
     {
       "id": "39b6b082-2243-48cf-a1b6-f3a72f45f990",
@@ -50,7 +53,8 @@
       "unit_id": null,
       "notes": "1 kg di impasto",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:29"
+      "created_at": "2026-08-20 12:28:29",
+      "group_name": null
     },
     {
       "id": "552829ec-bf31-4a13-9114-4bcbf9694056",
@@ -64,7 +68,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "1 kg di impasto — (400g se planetaria)",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "141529bc-616b-4c78-81b8-47e61eb91061",
@@ -78,7 +83,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "1 kg di impasto",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     },
     {
       "id": "09540245-4889-4356-9802-f6c54ab54d08",
@@ -92,7 +98,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "1 kg di impasto",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "group_name": null
     }
   ],
   "steps": [
@@ -107,7 +114,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     },
     {
       "id": "383125da-e484-465f-a652-ca41d1a810fc",
@@ -120,7 +128,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     },
     {
       "id": "60628b20-15fe-448e-bc6c-97b3262866f6",
@@ -133,7 +142,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     },
     {
       "id": "a7eeaed9-03e9-49be-b029-dccdcb77e966",
@@ -146,7 +156,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     },
     {
       "id": "6ab07df0-33e4-4b4c-a539-92d5302b43b2",
@@ -159,7 +170,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     },
     {
       "id": "6d902f49-749a-40c0-9012-d00c64e65470",
@@ -172,7 +184,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:30"
+      "created_at": "2026-08-20 12:28:30",
+      "technique_ids": "[]"
     }
   ],
   "toolIds": [

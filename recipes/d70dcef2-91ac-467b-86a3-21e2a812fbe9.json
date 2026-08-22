@@ -23,6 +23,8 @@
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:35",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "eaa74eb2-e588-4f89-9c68-b80e02e3c7c0",
@@ -36,7 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "df6461b3-05c2-448c-a286-3816f250d1d7",
@@ -50,7 +53,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "strutto",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "7850a65c-aea5-4741-8fe9-3d2433b19731",
@@ -64,7 +68,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "d4868bc3-71f8-4620-8ab7-bf4d87818fd8",
@@ -78,7 +83,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "d7402349-918d-42e5-b743-21e95fb57ef8",
@@ -92,7 +98,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "cd33483f-41e9-4c42-b576-447e5f1af87a",
@@ -106,7 +113,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "86617d44-80a0-4960-8309-9a82a146b29d",
@@ -120,7 +128,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "0fcc0ca2-68bb-4aa7-bb83-93b39fe6e674",
@@ -134,7 +143,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "22302718-cab8-467e-a17b-629c3076021f",
@@ -148,7 +158,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     }
   ],
   "steps": [
@@ -163,7 +174,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "619905fd-2f04-4408-b581-2bbf9e753e44",
@@ -176,7 +188,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "4e89e809-9858-420e-bad0-c6ef8a7204b1",
@@ -189,7 +202,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "27448754-ccf4-4758-b2c4-f9e197f23365",
@@ -202,7 +216,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     }
   ],
   "toolIds": []

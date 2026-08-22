@@ -23,6 +23,8 @@
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:31",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "6586d41e-6c06-4db8-8fd8-3479c2b37cc4",
@@ -36,7 +38,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "66660b69-ed7f-41a8-b779-e893c9a5619d",
@@ -50,7 +53,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "c6f6aa27-0842-4910-8f5f-cf41046882a8",
@@ -64,7 +68,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "575a22e5-3242-439c-ade4-c47483dd96fa",
@@ -78,7 +83,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "c1c2ae41-1a7c-4a0e-99e0-56017ecf2b5f",
@@ -92,7 +98,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "cinghiale (polpa magra)",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "7e23682b-6604-4721-adf3-f6ce6efa6708",
@@ -106,7 +113,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "9ac3c334-40e5-4c23-ba2d-6cbacbb27c96",
@@ -120,7 +128,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "4842d188-de93-4d08-8ea0-1efacc3f9f50",
@@ -134,7 +143,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "a63d53d6-99a4-4cb0-a3c3-6bd73632d464",
@@ -148,7 +158,8 @@
       "unit_id": "d548bb01f882fe6fbece1aa7e67f8de8",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "c0f04936-5f52-47a5-b8af-3e0d20af970e",
@@ -162,7 +173,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "passata di pomodoro",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "862df248-7df9-42d2-99e8-2591ef6899f2",
@@ -176,7 +188,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "4dea7390-1df0-44fe-bc09-012404416735",
@@ -190,7 +203,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "0a3d46fe-cfbc-476d-ad07-380cd3e65e56",
@@ -204,7 +218,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "aa97618a-db26-45ca-8c2b-7e15941db40e",
@@ -218,7 +233,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "de738693-6c98-456e-af2e-b347affa5b16",
@@ -232,7 +248,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "cb5709de-ee65-4fad-a3de-90e08598defa",
@@ -246,7 +263,8 @@
       "unit_id": "db4a85cd67b171aabb3c750ad64592fa",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "4670d147-6889-45dc-91cf-261231284b9a",
@@ -260,7 +278,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     },
     {
       "id": "9518c78f-1ac6-4862-886e-f390859f608b",
@@ -274,7 +293,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "farina bianca",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "group_name": null
     }
   ],
   "steps": [
@@ -289,7 +309,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "technique_ids": "[]"
     },
     {
       "id": "7fa649c2-1f1e-4ee5-84fb-2c1e91f8d55f",
@@ -302,7 +323,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "technique_ids": "[]"
     },
     {
       "id": "a206245d-5713-4fff-b029-aca1b335cb41",
@@ -315,7 +337,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "technique_ids": "[]"
     },
     {
       "id": "621cfa4b-316c-4abe-9eb4-1a017be40e5e",
@@ -328,7 +351,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "technique_ids": "[]"
     },
     {
       "id": "369a117b-8f40-4da7-9ebb-4f762016dd43",
@@ -341,7 +365,8 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:31"
+      "created_at": "2026-08-20 12:28:31",
+      "technique_ids": "[]"
     }
   ],
   "toolIds": []

@@ -23,6 +23,8 @@
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:35",
+  "storage_instructions": null,
+  "tips": null,
   "ingredients": [
     {
       "id": "3f03f9c4-222c-4893-b32a-74eee951bce0",
@@ -36,7 +38,8 @@
       "unit_id": "84dc14ef8f0ba215821b1fd6d31e12fc",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "15aea723-81f3-4c37-93a6-76e612e4e03a",
@@ -50,7 +53,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "72a6df3f-0c11-48a6-81c0-1b3c8ac5f9ad",
@@ -64,7 +68,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "08974cef-2462-4dd9-8e4e-e23f293368b0",
@@ -78,7 +83,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "f03d6951-997e-4ccf-a6d8-5806ce3dcd63",
@@ -92,7 +98,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "5fd55807-e038-474e-805e-6f470aad196c",
@@ -106,7 +113,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "4d8d5f6e-00aa-4335-8ee4-12d5d7c6f494",
@@ -120,7 +128,8 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": "da tavola",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "9da548fb-996a-4e99-b138-78cffd13208e",
@@ -134,7 +143,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "e731cca7-05f4-438c-a9c5-ee21809b31f1",
@@ -148,7 +158,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "e804702e-deed-4770-b23d-a7048f0f5483",
@@ -162,7 +173,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "a7200d70-5052-408c-9897-4f116a0041d5",
@@ -176,7 +188,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "758e786c-a1b5-48d1-8bd2-3ad5c55a66e4",
@@ -190,7 +203,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "670dfe30-1fde-4cc4-b6d7-66400b073ec8",
@@ -204,7 +218,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "0f79c95e-1d86-4b5c-aedf-8f22bd722934",
@@ -218,7 +233,8 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": "da tavola",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     },
     {
       "id": "acc67fc2-e921-45ad-9c31-04ee7bc7242d",
@@ -232,7 +248,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "group_name": null
     }
   ],
   "steps": [
@@ -247,7 +264,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614697-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "926e4606-cb1a-4072-897c-fa730b2588d3",
@@ -260,7 +278,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614699-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "ddcec849-077e-49bb-b1f8-3ff48b5cc923",
@@ -273,7 +292,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614703-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "58151d79-eaa6-49be-a767-d31fdea145bd",
@@ -286,7 +306,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614705-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "fea0e6eb-7c37-446e-91ea-da24c19d545e",
@@ -299,7 +320,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614709-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "b59dd4ff-09a6-43a6-a90c-629d9ff5242e",
@@ -312,7 +334,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614713-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "75304f3b-406f-4b4e-a18f-add3f69a0bb3",
@@ -325,7 +348,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614717-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "4221e428-59ef-4210-9369-6d7815bc23a6",
@@ -338,7 +362,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614721-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "c3a5a37f-5c70-492d-8cec-22f106d5fdca",
@@ -351,7 +376,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614723-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "378eb93d-a884-4071-b92c-2fae079f5842",
@@ -364,7 +390,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614727-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     },
     {
       "id": "8645e3a8-dd28-40c8-b4d6-4623138466c6",
@@ -377,7 +404,8 @@
       "notes": null,
       "image_url": "https://cdn.cook.stbm.it/thumbnails/ricette/127/127629/cinghiale-alla-cacciatora-614729-w400.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:35"
+      "created_at": "2026-08-20 12:28:35",
+      "technique_ids": "[]"
     }
   ],
   "toolIds": []
