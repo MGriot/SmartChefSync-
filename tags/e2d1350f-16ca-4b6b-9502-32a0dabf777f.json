@@ -1,0 +1,13 @@
+{
+  "id": "e2d1350f-16ca-4b6b-9502-32a0dabf777f",
+  "name": "Crostacei",
+  "group_name": "Contiene",
+  "color": "#ea580c",
+  "icon": "FaShrimp",
+  "exclude_tag_ids": "[]",
+  "sort_order": 12,
+  "deleted_at": null,
+  "created_at": "2026-08-20 12:28:18",
+  "updated_at": "2026-08-20 12:28:18",
+  "synonyms": "[]"
+}

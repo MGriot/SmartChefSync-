@@ -1,0 +1,13 @@
+{
+  "id": "369cdb20-8fc8-4128-812d-660c3438fc70",
+  "name": "Uova",
+  "group_name": "Contiene",
+  "color": "#ca8a04",
+  "icon": "FaEgg",
+  "exclude_tag_ids": "[]",
+  "sort_order": 13,
+  "deleted_at": null,
+  "created_at": "2026-08-20 12:28:18",
+  "updated_at": "2026-08-20 12:28:18",
+  "synonyms": "[]"
+}

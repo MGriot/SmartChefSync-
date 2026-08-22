@@ -1,0 +1,13 @@
+{
+  "id": "c45400fd-afbe-4323-9a19-34a0162102d3",
+  "name": "Antipasto",
+  "group_name": "Portata",
+  "color": "#64748b",
+  "icon": "FaUtensils",
+  "exclude_tag_ids": "[]",
+  "sort_order": 20,
+  "deleted_at": null,
+  "created_at": "2026-08-20 12:28:18",
+  "updated_at": "2026-08-20 12:28:18",
+  "synonyms": "[]"
+}

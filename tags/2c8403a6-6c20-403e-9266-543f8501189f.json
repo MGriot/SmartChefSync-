@@ -1,0 +1,13 @@
+{
+  "id": "2c8403a6-6c20-403e-9266-543f8501189f",
+  "name": "Glutine",
+  "group_name": "Contiene",
+  "color": "#92400e",
+  "icon": "FaWheatAwn",
+  "exclude_tag_ids": "[]",
+  "sort_order": 15,
+  "deleted_at": null,
+  "created_at": "2026-08-20 12:28:18",
+  "updated_at": "2026-08-20 12:28:18",
+  "synonyms": "[]"
+}
