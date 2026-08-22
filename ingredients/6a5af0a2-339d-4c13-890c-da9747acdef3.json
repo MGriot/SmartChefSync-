@@ -3,7 +3,7 @@
   "category_id": "15fc7273b8d09447737eda7669d188ce",
   "name": "Lemon Zest",
   "description": null,
-  "icon": null,
+  "icon": "egg",
   "image_urls": "[]",
   "calories_kcal": 29,
   "protein_g": 1.1,
@@ -14,8 +14,8 @@
   "sodium_mg": 2,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:25",
-  "updated_at": "2026-08-20 12:28:25",
+  "updated_at": "2026-08-22 14:49:28",
   "seasonal_months": "[]",
   "synonyms": "[]",
-  "parent_ingredient_id": null
+  "parent_ingredient_id": "3d00e503-ee91-4e84-9dad-a9443198b905"
 }
