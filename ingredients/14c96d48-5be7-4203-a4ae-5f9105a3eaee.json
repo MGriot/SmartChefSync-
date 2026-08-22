@@ -1,9 +1,9 @@
 {
   "id": "14c96d48-5be7-4203-a4ae-5f9105a3eaee",
-  "category_id": "15fc7273b8d09447737eda7669d188ce",
+  "category_id": "a25e3f52e12a501384d7a74f355c1a27",
   "name": "Yellow Food Coloring Gel",
   "description": null,
-  "icon": null,
+  "icon": "egg",
   "image_urls": "[]",
   "calories_kcal": 20,
   "protein_g": 0,
@@ -14,7 +14,7 @@
   "sodium_mg": 20,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:22",
-  "updated_at": "2026-08-21 08:16:21",
+  "updated_at": "2026-08-22 14:52:59",
   "seasonal_months": "[]",
   "synonyms": "[]",
   "parent_ingredient_id": null
