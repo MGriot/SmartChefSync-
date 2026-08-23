@@ -38,14 +38,14 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
       "id": "779cf67b-c734-4868-b088-9768c37ea7f6",
       "recipe_id": "f0fad4fe-36be-48fc-b21f-1e236806ab47",
       "sort_order": 1,
-      "ingredient_id": "3641cec4-d2ba-40c1-9b5e-219295feb2b8",
+      "ingredient_id": "f4977917-198e-4a43-ad3c-1f061956c513",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 100,
@@ -53,7 +53,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -68,7 +68,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -83,7 +83,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -98,7 +98,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -113,7 +113,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -128,14 +128,14 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
       "id": "68c55b43-f5f8-4812-b676-9efa8ca67ec8",
       "recipe_id": "f0fad4fe-36be-48fc-b21f-1e236806ab47",
       "sort_order": 7,
-      "ingredient_id": "6a5af0a2-339d-4c13-890c-da9747acdef3",
+      "ingredient_id": "52477781-e392-404d-b189-9ad21cdef018",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 1,
@@ -143,7 +143,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -158,14 +158,14 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
       "id": "004633f0-5aa2-4461-ae59-c6067be10ace",
       "recipe_id": "f0fad4fe-36be-48fc-b21f-1e236806ab47",
       "sort_order": 9,
-      "ingredient_id": "6811ae57-c4cf-4a32-b282-a63865949e99",
+      "ingredient_id": "4a4611fe-3280-404a-bb64-b3ae600ccf9c",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 180,
@@ -173,7 +173,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -188,7 +188,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -203,7 +203,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -218,14 +218,14 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
       "id": "f9c78951-c18b-4bc0-b179-fc3435296de1",
       "recipe_id": "f0fad4fe-36be-48fc-b21f-1e236806ab47",
       "sort_order": 13,
-      "ingredient_id": "3d00e503-ee91-4e84-9dad-a9443198b905",
+      "ingredient_id": "96294275-a7c3-4e32-a422-ab135aa4b836",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 70,
@@ -233,7 +233,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -248,7 +248,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -263,7 +263,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -278,7 +278,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     },
     {
@@ -293,7 +293,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:06:08",
       "group_name": null
     }
   ],
