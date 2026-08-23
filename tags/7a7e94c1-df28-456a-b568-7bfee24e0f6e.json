@@ -1,0 +1,9 @@
+{
+  "name": "Primo",
+  "group_name": "Portata",
+  "color": "#64748b",
+  "icon": "FaBowlFood",
+  "sort_order": 21,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

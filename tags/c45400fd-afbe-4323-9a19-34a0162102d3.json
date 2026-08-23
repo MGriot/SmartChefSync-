@@ -1,0 +1,9 @@
+{
+  "name": "Antipasto",
+  "group_name": "Portata",
+  "color": "#64748b",
+  "icon": "FaUtensils",
+  "sort_order": 20,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

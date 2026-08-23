@@ -1,0 +1,9 @@
+{
+  "name": "Lattosio",
+  "group_name": "Contiene",
+  "color": "#7c3aed",
+  "icon": "FaCheese",
+  "sort_order": 14,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

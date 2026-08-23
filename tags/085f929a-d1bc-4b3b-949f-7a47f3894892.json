@@ -1,0 +1,9 @@
+{
+  "name": "Vegano",
+  "group_name": "Dieta",
+  "color": "#15803d",
+  "icon": "FaSeedling",
+  "sort_order": 2,
+  "exclude_tag_ids": "[\"bb4a9af1-c361-4b6d-99a4-d6e85182ff5f\",\"11e1806a-04f6-473c-b977-1d70d83f6092\",\"e2d1350f-16ca-4b6b-9502-32a0dabf777f\",\"369cdb20-8fc8-4128-812d-660c3438fc70\",\"2d4541e6-99c5-49c2-9ff8-1b04e712d033\"]",
+  "deleted_at": null
+}

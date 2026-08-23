@@ -1,0 +1,9 @@
+{
+  "name": "Soia",
+  "group_name": "Contiene",
+  "color": "#059669",
+  "icon": "FaSeedling",
+  "sort_order": 16,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

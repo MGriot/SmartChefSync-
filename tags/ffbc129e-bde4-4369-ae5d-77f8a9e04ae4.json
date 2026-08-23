@@ -1,0 +1,9 @@
+{
+  "name": "Frutta a guscio",
+  "group_name": "Contiene",
+  "color": "#a16207",
+  "icon": "FaTree",
+  "sort_order": 17,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

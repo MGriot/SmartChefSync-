@@ -1,0 +1,9 @@
+{
+  "name": "Pesce",
+  "group_name": "Contiene",
+  "color": "#0284c7",
+  "icon": "FaFish",
+  "sort_order": 11,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

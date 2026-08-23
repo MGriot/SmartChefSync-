@@ -1,0 +1,9 @@
+{
+  "name": "Bevanda",
+  "group_name": "Portata",
+  "color": "#0891b2",
+  "icon": "FaMugHot",
+  "sort_order": 25,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

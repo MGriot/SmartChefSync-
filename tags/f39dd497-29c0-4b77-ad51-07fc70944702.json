@@ -1,0 +1,9 @@
+{
+  "name": "Appetizer",
+  "group_name": "Portata",
+  "color": "#0db2b5",
+  "icon": "FaBowlFood",
+  "sort_order": 0,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

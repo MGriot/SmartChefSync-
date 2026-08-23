@@ -1,0 +1,9 @@
+{
+  "name": "Crostacei",
+  "group_name": "Contiene",
+  "color": "#ea580c",
+  "icon": "FaShrimp",
+  "sort_order": 12,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

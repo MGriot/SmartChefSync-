@@ -1,0 +1,9 @@
+{
+  "name": "Contorno",
+  "group_name": "Portata",
+  "color": "#64748b",
+  "icon": "FaCarrot",
+  "sort_order": 23,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

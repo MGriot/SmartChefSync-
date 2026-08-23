@@ -1,0 +1,9 @@
+{
+  "name": "Carne",
+  "group_name": "Contiene",
+  "color": "#b91c1c",
+  "icon": "FaDrumstickBite",
+  "sort_order": 10,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

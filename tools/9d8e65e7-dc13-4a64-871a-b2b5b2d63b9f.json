@@ -1,0 +1,8 @@
+{
+  "name": "Oven",
+  "category": "appliance",
+  "description": null,
+  "icon": "FaTemperatureHigh",
+  "image_urls": "[]",
+  "deleted_at": null
+}

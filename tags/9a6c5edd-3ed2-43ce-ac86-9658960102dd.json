@@ -1,0 +1,9 @@
+{
+  "name": "Secondo",
+  "group_name": "Portata",
+  "color": "#64748b",
+  "icon": "FaDrumstickBite",
+  "sort_order": 22,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}

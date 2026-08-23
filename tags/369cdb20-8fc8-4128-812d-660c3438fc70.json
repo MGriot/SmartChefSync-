@@ -1,0 +1,9 @@
+{
+  "name": "Uova",
+  "group_name": "Contiene",
+  "color": "#ca8a04",
+  "icon": "FaEgg",
+  "sort_order": 13,
+  "exclude_tag_ids": "[]",
+  "deleted_at": null
+}
