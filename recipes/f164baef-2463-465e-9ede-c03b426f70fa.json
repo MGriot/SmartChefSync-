@@ -27,7 +27,7 @@
   "tips": "Servire subito appena mantecati per evitare che la pastella perda croccantezza.",
   "ingredients": [
     {
-      "id": "a3c9d53a-5a6f-42e1-a1f0-d140da306945",
+      "id": "f1b8948f-0793-4779-96c3-9df4710898a5",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 0,
       "ingredient_id": "e767bf90-cec5-4ad3-950f-ae7fc7fb2c02",
@@ -38,26 +38,26 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Pollo e Pastella"
     },
     {
-      "id": "dac9ba5d-ae42-42ab-80f0-8179e3a33ed9",
+      "id": "35dce4bb-df11-4fb9-a9ab-b41129131b48",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 1,
-      "ingredient_id": "9ce80dd7-b58b-43ce-9c81-c5e8bd4d62c7",
+      "ingredient_id": null,
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 2,
       "quantity_text": "2",
-      "unit_id": "c81f0baf77a35a1d2ae8f7d5740c72ab",
+      "unit_id": null,
       "notes": "Grandi",
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Pollo e Pastella"
     },
     {
-      "id": "2e785711-d0e8-40f8-b55b-b2aef3459baf",
+      "id": "7b815e73-e0aa-4bd2-9ea0-c464426f4cf5",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 2,
       "ingredient_id": null,
@@ -68,11 +68,11 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Pollo e Pastella"
     },
     {
-      "id": "96308a6e-4939-4c50-b902-9a42412a2d13",
+      "id": "3335c21d-5873-4795-9235-4754cc6df272",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 3,
       "ingredient_id": null,
@@ -83,11 +83,11 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Pollo e Pastella"
     },
     {
-      "id": "98a7142a-0e1b-4839-8ffe-16c3f251b883",
+      "id": "f99086e2-8795-4e63-9746-7709de1042fe",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 4,
       "ingredient_id": null,
@@ -98,11 +98,11 @@
       "unit_id": null,
       "notes": "Lievito istantaneo in polvere",
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Pollo e Pastella"
     },
     {
-      "id": "0cc3ec21-6fba-4874-9b2a-d3ac8ef78785",
+      "id": "7222fe14-c33a-4ccc-97a0-c521444e3ea8",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 5,
       "ingredient_id": "7dd98f73-0c12-43ab-a78a-5e79cea7c1a4",
@@ -113,11 +113,11 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Pollo e Pastella"
     },
     {
-      "id": "7d1b0096-e736-4886-8801-1d7c26dd4422",
+      "id": "d8090ae2-a916-41c7-bd12-f25c1765b00e",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 6,
       "ingredient_id": null,
@@ -128,11 +128,11 @@
       "unit_id": null,
       "notes": "Olio di semi o arachidi",
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Pollo e Pastella"
     },
     {
-      "id": "5e326770-fc46-478b-9a54-cda036aaba0e",
+      "id": "8f66cb95-dcc4-465c-b3db-cf325951d1b8",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 7,
       "ingredient_id": null,
@@ -143,11 +143,11 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Salsa Agrodolce"
     },
     {
-      "id": "c018c5c3-1dd8-4940-88b4-1961f57ef641",
+      "id": "24384ecb-e034-4bb4-8d6a-3862c5799d69",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 8,
       "ingredient_id": null,
@@ -158,11 +158,11 @@
       "unit_id": null,
       "notes": "Tritato",
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Salsa Agrodolce"
     },
     {
-      "id": "5eb4dffc-c062-4c6e-a2b7-1d654cbee232",
+      "id": "62f460c2-dab4-4478-8804-708ebe096bf2",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 9,
       "ingredient_id": null,
@@ -173,11 +173,11 @@
       "unit_id": null,
       "notes": "Tritato",
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Salsa Agrodolce"
     },
     {
-      "id": "d5f273dc-2b59-402f-a1cd-d1eb9819053a",
+      "id": "a704d10f-5782-42f6-81f1-92b10d9fffcf",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 10,
       "ingredient_id": null,
@@ -188,11 +188,11 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Salsa Agrodolce"
     },
     {
-      "id": "55f9d152-aaa3-4577-ae46-4bdca9e3be57",
+      "id": "6cd6c2b5-933f-400d-b87a-c47ad7b20b88",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 11,
       "ingredient_id": null,
@@ -203,11 +203,11 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Salsa Agrodolce"
     },
     {
-      "id": "1b175b65-40d5-4fb0-872a-2d358279c8b5",
+      "id": "39c6141c-6936-4938-bae8-1f2273028464",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 12,
       "ingredient_id": null,
@@ -218,11 +218,11 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Salsa Agrodolce"
     },
     {
-      "id": "67a57a36-85da-438d-8773-81c70c010001",
+      "id": "be3d00b1-40f6-4de4-b171-ba049db9973e",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 13,
       "ingredient_id": "2bed7d61-aa99-4cfb-9189-e4e6fe001e71",
@@ -233,11 +233,11 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Salsa Agrodolce"
     },
     {
-      "id": "494ed159-5636-4608-b88c-f0ca5f0ae640",
+      "id": "041257fe-48e7-4e32-8e66-ea5dfe13b3f3",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 14,
       "ingredient_id": null,
@@ -248,11 +248,11 @@
       "unit_id": null,
       "notes": "Per addensare la salsa",
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Salsa Agrodolce"
     },
     {
-      "id": "7f95b344-04b0-4fdc-854b-53f1164cdcd9",
+      "id": "95654167-53a9-4244-b558-71eec3687df5",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "sort_order": 15,
       "ingredient_id": null,
@@ -263,27 +263,27 @@
       "unit_id": null,
       "notes": "Tritati, per guarnire",
       "is_optional": 0,
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:18",
       "group_name": "Salsa Agrodolce"
     }
   ],
   "steps": [
     {
-      "id": "a9179d20-b2ac-4953-b067-20e36f844d3d",
+      "id": "cd8d5f0c-33df-483a-93e1-cbdb329ff77c",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "step_number": 1,
       "title": "Preparazione del Pollo",
-      "description": "Taglia il {{ing:0}} a bocconcini di circa 2-3 cm. Mettili in una ciotola capiente, aggiungi le {{ing:1}} e mescola accuratamente per amalgamare.",
+      "description": "Taglia il {{ing:0}} a bocconcini di circa 2-3 cm. Mettili in una ciotola capiente, aggiungi le 2 uova e mescola accuratamente per amalgamare.",
       "duration_min": 5,
       "tool_ids": "[\"c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f\"]",
       "notes": null,
       "image_url": null,
-      "step_ingredients": "[{\"ingredientId\":\"b1a2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d\"},{\"ingredientId\":\"c2b3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e\"},{\"ingredientSortOrder\":0,\"amountMode\":\"fraction\",\"portion\":1,\"quantity\":null,\"unitId\":null,\"unitSymbol\":null},{\"ingredientSortOrder\":1,\"amountMode\":\"fraction\",\"portion\":1,\"quantity\":null,\"unitId\":null,\"unitSymbol\":null}]",
-      "created_at": "2026-08-22 14:24:56",
+      "step_ingredients": "[{\"ingredientId\":\"b1a2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d\"},{\"ingredientId\":\"c2b3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e\"},{\"ingredientSortOrder\":0,\"amountMode\":\"fraction\",\"portion\":1,\"quantity\":null,\"unitId\":null,\"unitSymbol\":null}]",
+      "created_at": "2026-08-23 07:06:14",
       "technique_ids": "[]"
     },
     {
-      "id": "98a75818-c0cc-4746-9af7-8ea90709ecc9",
+      "id": "eb40e500-565b-40e4-af32-15eaa4f8338e",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "step_number": 2,
       "title": "Preparazione delle Polveri",
@@ -293,11 +293,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"d3c4d5e6-f7a8-9b0c-1d2e-3f4a5b6c7d8e\"},{\"ingredientId\":\"e4d5e6f7-a8b9-0c1d-2e3f-4a5b6c7d8e9f\"},{\"ingredientId\":\"f5e6f7a8-b9c0-1d2e-3f4a-5b6c7d8e9f0a\"},{\"ingredientId\":\"7dd98f73-0c12-43ab-a78a-5e79cea7c1a4\"}]",
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:14",
       "technique_ids": "[]"
     },
     {
-      "id": "3e146444-e22c-40a3-b852-635d63cf8304",
+      "id": "9c7276f3-edab-4b7d-8f7f-185867535236",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "step_number": 3,
       "title": "Impanatura",
@@ -307,11 +307,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:14",
       "technique_ids": "[]"
     },
     {
-      "id": "963b1baa-02e7-48f9-acb5-62b91e40c29e",
+      "id": "0a1433f5-633b-4c57-b5b4-39e234dfd56e",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "step_number": 4,
       "title": "Frittura del Pollo",
@@ -321,11 +321,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d\"}]",
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:14",
       "technique_ids": "[]"
     },
     {
-      "id": "d831098d-ee27-4ddb-84da-c84cc10b640c",
+      "id": "5dd8eb2c-afd6-462d-85f4-72a05e0f7173",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "step_number": 5,
       "title": "Preparazione della Salsa Agrodolce",
@@ -335,11 +335,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e\"},{\"ingredientId\":\"2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f\"},{\"ingredientId\":\"3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a\"},{\"ingredientId\":\"4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b\"},{\"ingredientId\":\"5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c\"},{\"ingredientId\":\"6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d\"},{\"ingredientId\":\"2bed7d61-aa99-4cfb-9189-e4e6fe001e71\"},{\"ingredientId\":\"e4d5e6f7-a8b9-0c1d-2e3f-4a5b6c7d8e9f\"}]",
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:14",
       "technique_ids": "[]"
     },
     {
-      "id": "3d4c5d86-f021-411e-a123-9c4d85a6370a",
+      "id": "4bcf42f8-cfba-417b-914f-54c33212cb85",
       "recipe_id": "f164baef-2463-465e-9ede-c03b426f70fa",
       "step_number": 6,
       "title": "Mantecatura e Servizio",
@@ -349,7 +349,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e\"}]",
-      "created_at": "2026-08-22 14:24:56",
+      "created_at": "2026-08-23 07:06:14",
       "technique_ids": "[]"
     }
   ],
