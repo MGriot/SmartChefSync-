@@ -38,7 +38,7 @@
       "unit_id": null,
       "notes": "Ingredienti Principali — maturi",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:09",
       "group_name": null
     },
     {
@@ -53,7 +53,7 @@
       "unit_id": null,
       "notes": "Ingredienti Principali — (succo)",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:09",
       "group_name": null
     },
     {
@@ -68,7 +68,7 @@
       "unit_id": null,
       "notes": "Ingredienti Principali — medio",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:09",
       "group_name": null
     },
     {
@@ -83,7 +83,7 @@
       "unit_id": null,
       "notes": "Ingredienti Principali — piccolo (o 1/2 medio)",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:09",
       "group_name": null
     },
     {
@@ -98,7 +98,7 @@
       "unit_id": null,
       "notes": "Ingredienti Principali — verde (o rosso), a piacere per la piccantezza",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:09",
       "group_name": null
     },
     {
@@ -113,7 +113,7 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": "Ingredienti Principali",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:09",
       "group_name": null
     },
     {
@@ -128,7 +128,7 @@
       "unit_id": null,
       "notes": "Ingredienti Principali — q.b. fino",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:09",
       "group_name": null
     },
     {
@@ -143,7 +143,7 @@
       "unit_id": null,
       "notes": "Ingredienti Principali — q.b. macinato fresco",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:09",
       "group_name": null
     }
   ],
@@ -159,7 +159,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:03",
       "technique_ids": "[]"
     },
     {
@@ -173,7 +173,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:03",
       "technique_ids": "[]"
     },
     {
@@ -187,7 +187,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:03",
       "technique_ids": "[]"
     },
     {
@@ -201,7 +201,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:03",
       "technique_ids": "[]"
     },
     {
@@ -215,7 +215,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:03",
       "technique_ids": "[]"
     },
     {
@@ -229,7 +229,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:09:03",
       "technique_ids": "[]"
     }
   ],

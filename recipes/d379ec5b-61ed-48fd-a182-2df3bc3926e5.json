@@ -38,14 +38,14 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
       "id": "e28aaad3-8c6b-4e4f-9b8a-44d159f1eb27",
       "recipe_id": "d379ec5b-61ed-48fd-a182-2df3bc3926e5",
       "sort_order": 1,
-      "ingredient_id": "3641cec4-d2ba-40c1-9b5e-219295feb2b8",
+      "ingredient_id": "f4977917-198e-4a43-ad3c-1f061956c513",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 100,
@@ -53,7 +53,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -68,7 +68,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -83,14 +83,14 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
       "id": "ab44a008-4ab2-4cbf-8ea9-905925cf45b4",
       "recipe_id": "d379ec5b-61ed-48fd-a182-2df3bc3926e5",
       "sort_order": 4,
-      "ingredient_id": "3d00e503-ee91-4e84-9dad-a9443198b905",
+      "ingredient_id": "96294275-a7c3-4e32-a422-ab135aa4b836",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 100,
@@ -98,7 +98,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -113,14 +113,14 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
       "id": "0fd3eec2-4fe0-4011-8bb6-9fee03ed3523",
       "recipe_id": "d379ec5b-61ed-48fd-a182-2df3bc3926e5",
       "sort_order": 6,
-      "ingredient_id": "6a5af0a2-339d-4c13-890c-da9747acdef3",
+      "ingredient_id": "52477781-e392-404d-b189-9ad21cdef018",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 2,
@@ -128,7 +128,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -143,7 +143,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -158,14 +158,14 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
       "id": "b426d8db-05d9-41a1-af36-3b5c699aa10a",
       "recipe_id": "d379ec5b-61ed-48fd-a182-2df3bc3926e5",
       "sort_order": 9,
-      "ingredient_id": "3d00e503-ee91-4e84-9dad-a9443198b905",
+      "ingredient_id": "96294275-a7c3-4e32-a422-ab135aa4b836",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 60,
@@ -173,7 +173,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -188,7 +188,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -203,7 +203,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -218,7 +218,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -233,14 +233,14 @@
       "unit_id": "d548bb01f882fe6fbece1aa7e67f8de8",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
       "id": "f8fdd60c-9a95-4fcc-bdfe-4e74a0476d33",
       "recipe_id": "d379ec5b-61ed-48fd-a182-2df3bc3926e5",
       "sort_order": 14,
-      "ingredient_id": "c85e7064-9353-40b3-90ac-0b30fafb9b6f",
+      "ingredient_id": "45d74269-6ce5-48c0-8e63-306c39619a54",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 1,
@@ -248,7 +248,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -263,7 +263,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -278,7 +278,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     },
     {
@@ -293,7 +293,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:03",
       "group_name": null
     }
   ],
@@ -309,7 +309,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:00",
       "technique_ids": "[]"
     },
     {
@@ -323,7 +323,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:00",
       "technique_ids": "[]"
     },
     {
@@ -337,7 +337,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:00",
       "technique_ids": "[]"
     },
     {
@@ -351,7 +351,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:00",
       "technique_ids": "[]"
     },
     {
@@ -365,7 +365,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:00",
       "technique_ids": "[]"
     },
     {
@@ -379,7 +379,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:01",
       "technique_ids": "[]"
     },
     {
@@ -393,7 +393,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:01",
       "technique_ids": "[]"
     },
     {
@@ -407,7 +407,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:01",
       "technique_ids": "[]"
     },
     {
@@ -421,7 +421,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:01",
       "technique_ids": "[]"
     },
     {
@@ -435,7 +435,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-21 08:16:22",
+      "created_at": "2026-08-23 07:10:01",
       "technique_ids": "[]"
     }
   ],
