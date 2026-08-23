@@ -38,7 +38,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 18:38:41",
+      "created_at": "2026-08-23 07:11:23",
       "group_name": null
     },
     {
@@ -53,7 +53,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Sostituibile con olio di semi leggero",
       "is_optional": 0,
-      "created_at": "2026-08-21 18:38:41",
+      "created_at": "2026-08-23 07:11:23",
       "group_name": null
     },
     {
@@ -68,7 +68,7 @@
       "unit_id": null,
       "notes": "Per regolare la densità",
       "is_optional": 0,
-      "created_at": "2026-08-21 18:38:41",
+      "created_at": "2026-08-23 07:11:23",
       "group_name": null
     },
     {
@@ -83,7 +83,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-21 18:38:41",
+      "created_at": "2026-08-23 07:11:23",
       "group_name": null
     }
   ],
@@ -99,7 +99,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"dc6359fe-0e93-4800-a921-0fbcfb2c0778\"}]",
-      "created_at": "2026-08-21 18:38:41",
+      "created_at": "2026-08-23 07:11:22",
       "technique_ids": "[]"
     },
     {
@@ -113,7 +113,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"2985af23-48ff-4d89-a424-30f3a73f0181\"},{\"ingredientId\":\"d62744ee-6d79-46e4-a4cf-416572f426e7\"}]",
-      "created_at": "2026-08-21 18:38:41",
+      "created_at": "2026-08-23 07:11:22",
       "technique_ids": "[]"
     },
     {
@@ -127,7 +127,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"2bed7d61-aa99-4cfb-9189-e4e6fe001e71\"}]",
-      "created_at": "2026-08-21 18:38:41",
+      "created_at": "2026-08-23 07:11:22",
       "technique_ids": "[]"
     }
   ],
