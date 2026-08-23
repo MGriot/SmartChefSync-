@@ -38,7 +38,7 @@
       "unit_id": null,
       "notes": "Per una tortiera da 24 cm — medie, a temperatura ambiente",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:11",
       "group_name": null
     },
     {
@@ -53,7 +53,7 @@
       "unit_id": null,
       "notes": "Per una tortiera da 24 cm",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:11",
       "group_name": null
     },
     {
@@ -68,7 +68,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per una tortiera da 24 cm — per tutti gli usi (00)",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:11",
       "group_name": null
     },
     {
@@ -83,7 +83,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per una tortiera da 24 cm",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:11",
       "group_name": null
     },
     {
@@ -98,7 +98,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per una tortiera da 24 cm",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:11",
       "group_name": null
     },
     {
@@ -113,7 +113,7 @@
       "unit_id": null,
       "notes": "Per una tortiera da 24 cm — pizzico di fino",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:11",
       "group_name": null
     }
   ],
@@ -129,7 +129,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:08",
       "technique_ids": "[]"
     },
     {
@@ -143,7 +143,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:08",
       "technique_ids": "[]"
     },
     {
@@ -157,7 +157,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:08",
       "technique_ids": "[]"
     },
     {
@@ -171,7 +171,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:08",
       "technique_ids": "[]"
     },
     {
@@ -185,7 +185,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:08",
       "technique_ids": "[]"
     },
     {
@@ -199,7 +199,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:29",
+      "created_at": "2026-08-23 07:11:08",
       "technique_ids": "[]"
     }
   ],
