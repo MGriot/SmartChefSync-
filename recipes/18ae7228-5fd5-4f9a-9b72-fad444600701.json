@@ -38,14 +38,14 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "di pappardelle",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
       "id": "fdd455d6-6a4f-4837-8f0a-05852183cbb9",
       "recipe_id": "18ae7228-5fd5-4f9a-9b72-fad444600701",
       "sort_order": 1,
-      "ingredient_id": "797b041c-dce5-4bd3-93b4-d722c09728db",
+      "ingredient_id": "ebf28e17-db76-4158-bd5f-fb0b1ddd158a",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": null,
@@ -53,7 +53,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "di carne di cervo",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -68,7 +68,7 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "di polpa di pomodoro",
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -83,7 +83,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -98,7 +98,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -113,7 +113,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -128,7 +128,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -143,7 +143,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -158,7 +158,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -173,7 +173,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -188,7 +188,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -203,7 +203,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -218,7 +218,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     },
     {
@@ -233,7 +233,7 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:11:02",
       "group_name": null
     }
   ],
@@ -249,7 +249,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:10:58",
       "technique_ids": "[]"
     },
     {
@@ -263,7 +263,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:10:58",
       "technique_ids": "[]"
     },
     {
@@ -277,7 +277,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:10:58",
       "technique_ids": "[]"
     },
     {
@@ -291,7 +291,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:10:58",
       "technique_ids": "[]"
     },
     {
@@ -305,7 +305,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-20 12:28:34",
+      "created_at": "2026-08-23 07:10:58",
       "technique_ids": "[]"
     }
   ],
