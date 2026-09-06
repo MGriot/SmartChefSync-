@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": "Conservare in un barattolo ermetico in frigorifero. Mescolare bene prima dell'uso poiché l'olio tende a separarsi dalla pasta.",
+  "tips": "Puoi personalizzare la tahina aggiungendo spezie come curry, curcuma, cumino, coriandolo o peperoncino. In alternativa al mortaio, puoi usare un frullatore o tritatutto per una consistenza più liscia.",
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-21 18:38:41",
-  "storage_instructions": "Conservare in un barattolo ermetico in frigorifero. Mescolare bene prima dell'uso poiché l'olio tende a separarsi dalla pasta.",
-  "tips": "Puoi personalizzare la tahina aggiungendo spezie come curry, curcuma, cumino, coriandolo o peperoncino. In alternativa al mortaio, puoi usare un frullatore o tritatutto per una consistenza più liscia.",
   "ingredients": [
     {
       "id": "5e45a1e1-27d8-485e-9bcf-38bb0c50444d",
@@ -38,8 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:23",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-08-23 07:11:23"
     },
     {
       "id": "83c44014-84be-4d64-a099-64b72b98bec6",
@@ -53,8 +53,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Sostituibile con olio di semi leggero",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:23",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-08-23 07:11:23"
     },
     {
       "id": "52df04ec-1b7d-4ed0-9580-a1a88c182fe4",
@@ -68,8 +68,8 @@
       "unit_id": null,
       "notes": "Per regolare la densità",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:23",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-08-23 07:11:23"
     },
     {
       "id": "6a924e33-3c2d-4e8b-9b5d-86bb9177b6c9",
@@ -83,8 +83,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:23",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-08-23 07:11:23"
     }
   ],
   "steps": [
@@ -99,7 +99,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"dc6359fe-0e93-4800-a921-0fbcfb2c0778\"}]",
-      "created_at": "2026-08-23 07:11:22",
+      "created_at": "2026-09-06 14:35:44",
       "technique_ids": "[]"
     },
     {
@@ -113,7 +113,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"2985af23-48ff-4d89-a424-30f3a73f0181\"},{\"ingredientId\":\"d62744ee-6d79-46e4-a4cf-416572f426e7\"}]",
-      "created_at": "2026-08-23 07:11:22",
+      "created_at": "2026-09-06 14:35:44",
       "technique_ids": "[]"
     },
     {
@@ -127,7 +127,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"2bed7d61-aa99-4cfb-9189-e4e6fe001e71\"}]",
-      "created_at": "2026-08-23 07:11:22",
+      "created_at": "2026-09-06 14:35:44",
       "technique_ids": "[]"
     }
   ],
