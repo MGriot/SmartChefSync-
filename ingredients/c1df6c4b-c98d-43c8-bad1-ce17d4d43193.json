@@ -1,9 +1,9 @@
 {
   "id": "c1df6c4b-c98d-43c8-bad1-ce17d4d43193",
   "category_id": "4854dfae89cce0a6c16afa504523ec86",
-  "name": "Acqua",
+  "name": "Water",
   "description": null,
-  "icon": null,
+  "icon": "egg",
   "image_urls": "[]",
   "calories_kcal": null,
   "protein_g": null,
@@ -17,5 +17,6 @@
   "parent_ingredient_id": null,
   "sync_status": "local",
   "created_at": "2026-08-21 08:16:21",
-  "updated_at": "2026-08-21 08:16:21"
+  "updated_at": "2026-09-06 20:59:36",
+  "plural_name": null
 }
