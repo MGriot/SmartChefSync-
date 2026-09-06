@@ -12,10 +12,10 @@
   "fiber_g": 3.2,
   "sugar_g": 0,
   "sodium_mg": 735,
-  "sync_status": "local",
-  "created_at": "2026-08-20 12:28:22",
-  "updated_at": "2026-08-21 08:16:20",
   "seasonal_months": "[]",
   "synonyms": "[]",
-  "parent_ingredient_id": null
+  "parent_ingredient_id": null,
+  "sync_status": "local",
+  "created_at": "2026-08-20 12:28:22",
+  "updated_at": "2026-08-21 08:16:20"
 }
