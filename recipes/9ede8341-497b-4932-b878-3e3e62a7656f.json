@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": null,
+  "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:32",
-  "storage_instructions": null,
-  "tips": null,
   "ingredients": [
     {
       "id": "ab2d5f53-6744-4fa1-928c-62097f69d6f0",
@@ -38,8 +38,8 @@
       "unit_id": null,
       "notes": "di maionese",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:08:59",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:01"
     },
     {
       "id": "14e1930e-7377-4c75-a8ac-473bf1254c7b",
@@ -53,8 +53,8 @@
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:08:59",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:01"
     },
     {
       "id": "2284f963-690d-400c-8e4a-1502fc423a4b",
@@ -68,8 +68,8 @@
       "unit_id": "d548bb01f882fe6fbece1aa7e67f8de8",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:08:59",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:01"
     }
   ],
   "steps": [
@@ -84,7 +84,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:07:10",
+      "created_at": "2026-09-06 14:39:00",
       "technique_ids": "[]"
     }
   ],
