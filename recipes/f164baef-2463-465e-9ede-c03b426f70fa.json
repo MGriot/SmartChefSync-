@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": "Consumare subito per mantenere la croccantezza. Eventuali avanzi possono essere conservati in frigorifero per 1-2 giorni e scaldati in forno.",
+  "tips": "Servire subito appena mantecati per evitare che la pastella perda croccantezza.",
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-22 14:24:56",
-  "storage_instructions": "Consumare subito per mantenere la croccantezza. Eventuali avanzi possono essere conservati in frigorifero per 1-2 giorni e scaldati in forno.",
-  "tips": "Servire subito appena mantecati per evitare che la pastella perda croccantezza.",
   "ingredients": [
     {
       "id": "f1b8948f-0793-4779-96c3-9df4710898a5",
@@ -38,8 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Pollo e Pastella"
+      "group_name": "Pollo e Pastella",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "35dce4bb-df11-4fb9-a9ab-b41129131b48",
@@ -53,8 +53,8 @@
       "unit_id": null,
       "notes": "Grandi",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Pollo e Pastella"
+      "group_name": "Pollo e Pastella",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "7b815e73-e0aa-4bd2-9ea0-c464426f4cf5",
@@ -68,8 +68,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Pollo e Pastella"
+      "group_name": "Pollo e Pastella",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "3335c21d-5873-4795-9235-4754cc6df272",
@@ -83,8 +83,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Pollo e Pastella"
+      "group_name": "Pollo e Pastella",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "f99086e2-8795-4e63-9746-7709de1042fe",
@@ -98,8 +98,8 @@
       "unit_id": null,
       "notes": "Lievito istantaneo in polvere",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Pollo e Pastella"
+      "group_name": "Pollo e Pastella",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "7222fe14-c33a-4ccc-97a0-c521444e3ea8",
@@ -113,8 +113,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Pollo e Pastella"
+      "group_name": "Pollo e Pastella",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "d8090ae2-a916-41c7-bd12-f25c1765b00e",
@@ -128,8 +128,8 @@
       "unit_id": null,
       "notes": "Olio di semi o arachidi",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Pollo e Pastella"
+      "group_name": "Pollo e Pastella",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "8f66cb95-dcc4-465c-b3db-cf325951d1b8",
@@ -143,8 +143,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Salsa Agrodolce"
+      "group_name": "Salsa Agrodolce",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "24384ecb-e034-4bb4-8d6a-3862c5799d69",
@@ -158,8 +158,8 @@
       "unit_id": null,
       "notes": "Tritato",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Salsa Agrodolce"
+      "group_name": "Salsa Agrodolce",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "62f460c2-dab4-4478-8804-708ebe096bf2",
@@ -173,8 +173,8 @@
       "unit_id": null,
       "notes": "Tritato",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Salsa Agrodolce"
+      "group_name": "Salsa Agrodolce",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "a704d10f-5782-42f6-81f1-92b10d9fffcf",
@@ -188,8 +188,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Salsa Agrodolce"
+      "group_name": "Salsa Agrodolce",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "6cd6c2b5-933f-400d-b87a-c47ad7b20b88",
@@ -203,8 +203,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Salsa Agrodolce"
+      "group_name": "Salsa Agrodolce",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "39c6141c-6936-4938-bae8-1f2273028464",
@@ -218,8 +218,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Salsa Agrodolce"
+      "group_name": "Salsa Agrodolce",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "be3d00b1-40f6-4de4-b171-ba049db9973e",
@@ -233,8 +233,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Salsa Agrodolce"
+      "group_name": "Salsa Agrodolce",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "041257fe-48e7-4e32-8e66-ea5dfe13b3f3",
@@ -248,8 +248,8 @@
       "unit_id": null,
       "notes": "Per addensare la salsa",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Salsa Agrodolce"
+      "group_name": "Salsa Agrodolce",
+      "created_at": "2026-09-06 14:39:20"
     },
     {
       "id": "95654167-53a9-4244-b558-71eec3687df5",
@@ -263,8 +263,8 @@
       "unit_id": null,
       "notes": "Tritati, per guarnire",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:18",
-      "group_name": "Salsa Agrodolce"
+      "group_name": "Salsa Agrodolce",
+      "created_at": "2026-09-06 14:39:20"
     }
   ],
   "steps": [
@@ -279,7 +279,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"b1a2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d\"},{\"ingredientId\":\"c2b3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e\"},{\"ingredientSortOrder\":0,\"amountMode\":\"fraction\",\"portion\":1,\"quantity\":null,\"unitId\":null,\"unitSymbol\":null}]",
-      "created_at": "2026-08-23 07:06:14",
+      "created_at": "2026-09-06 14:39:19",
       "technique_ids": "[]"
     },
     {
@@ -293,7 +293,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"d3c4d5e6-f7a8-9b0c-1d2e-3f4a5b6c7d8e\"},{\"ingredientId\":\"e4d5e6f7-a8b9-0c1d-2e3f-4a5b6c7d8e9f\"},{\"ingredientId\":\"f5e6f7a8-b9c0-1d2e-3f4a-5b6c7d8e9f0a\"},{\"ingredientId\":\"7dd98f73-0c12-43ab-a78a-5e79cea7c1a4\"}]",
-      "created_at": "2026-08-23 07:06:14",
+      "created_at": "2026-09-06 14:39:19",
       "technique_ids": "[]"
     },
     {
@@ -307,7 +307,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:14",
+      "created_at": "2026-09-06 14:39:19",
       "technique_ids": "[]"
     },
     {
@@ -321,7 +321,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d\"}]",
-      "created_at": "2026-08-23 07:06:14",
+      "created_at": "2026-09-06 14:39:19",
       "technique_ids": "[]"
     },
     {
@@ -335,7 +335,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e\"},{\"ingredientId\":\"2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f\"},{\"ingredientId\":\"3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a\"},{\"ingredientId\":\"4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b\"},{\"ingredientId\":\"5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c\"},{\"ingredientId\":\"6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d\"},{\"ingredientId\":\"2bed7d61-aa99-4cfb-9189-e4e6fe001e71\"},{\"ingredientId\":\"e4d5e6f7-a8b9-0c1d-2e3f-4a5b6c7d8e9f\"}]",
-      "created_at": "2026-08-23 07:06:14",
+      "created_at": "2026-09-06 14:39:19",
       "technique_ids": "[]"
     },
     {
@@ -349,7 +349,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[{\"ingredientId\":\"7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e\"}]",
-      "created_at": "2026-08-23 07:06:14",
+      "created_at": "2026-09-06 14:39:19",
       "technique_ids": "[]"
     }
   ],

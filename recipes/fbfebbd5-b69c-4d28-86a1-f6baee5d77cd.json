@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": null,
+  "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-21 18:31:03",
-  "storage_instructions": null,
-  "tips": null,
   "ingredients": [
     {
       "id": "e7f61adb-0e71-4bf8-81aa-c3ec2a8d384f",
@@ -38,8 +38,8 @@
       "unit_id": "84dc14ef8f0ba215821b1fd6d31e12fc",
       "notes": "4 persone",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "7571f5ad-cdd5-43d2-b665-7bd2966eeaf0",
@@ -53,8 +53,8 @@
       "unit_id": null,
       "notes": "4 persone",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "6b6005c7-e7cd-48ad-b57a-74c93207dd0f",
@@ -68,8 +68,8 @@
       "unit_id": null,
       "notes": "4 persone",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "8d06d40c-71a9-4603-8921-e3933bba1665",
@@ -83,8 +83,8 @@
       "unit_id": null,
       "notes": "4 persone",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "ab81a7ce-85b6-4615-8041-85295a98e554",
@@ -98,8 +98,8 @@
       "unit_id": null,
       "notes": "4 persone",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "1f5c8db7-7fe7-4d4d-aa1d-d0bc1a9b128f",
@@ -113,8 +113,8 @@
       "unit_id": null,
       "notes": "4 persone",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "d891dc54-2067-4394-bfb1-0485faecc86c",
@@ -128,8 +128,8 @@
       "unit_id": null,
       "notes": "4 persone — costa",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "2f37afb6-d41b-46ad-afdf-4194d80771a4",
@@ -143,8 +143,8 @@
       "unit_id": null,
       "notes": "4 persone",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "e3312986-a9af-4719-b428-d713c40a00b3",
@@ -158,8 +158,8 @@
       "unit_id": null,
       "notes": "4 persone — d’",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "4cd72bc0-fa86-40a7-ae23-764585895da0",
@@ -173,8 +173,8 @@
       "unit_id": null,
       "notes": "4 persone — fetta",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "bad30ba0-4acd-4a9d-bf46-36a2aa1a6f11",
@@ -188,8 +188,8 @@
       "unit_id": null,
       "notes": "4 persone — q.b.",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "d659826c-9a0e-4c14-8c15-4e79c9aba4af",
@@ -203,8 +203,8 @@
       "unit_id": null,
       "notes": "4 persone — q.b.",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "711d1425-fec8-4ec0-bb3d-30df124fde29",
@@ -218,8 +218,8 @@
       "unit_id": null,
       "notes": "4 persone — q.b.",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "20da750f-11a0-4196-ba10-5805ac41e3f9",
@@ -233,8 +233,8 @@
       "unit_id": null,
       "notes": "4 persone — q.b.",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "4e0200e4-d272-41d2-bf5f-1563a291fa8b",
@@ -248,8 +248,8 @@
       "unit_id": null,
       "notes": "4 persone — q.b.",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "1c8dfd65-08a8-468c-bbc0-0130d88dbb68",
@@ -263,8 +263,8 @@
       "unit_id": null,
       "notes": "4 persone — q.b.",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "651dbe7b-66fb-4b1e-bca9-7e6dbc1559d0",
@@ -278,8 +278,8 @@
       "unit_id": null,
       "notes": "4 persone — q.b.",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "bf4599cb-6210-45c6-96cf-fe8877a33404",
@@ -293,8 +293,8 @@
       "unit_id": null,
       "notes": "4 persone — q.b.",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     },
     {
       "id": "94d9d18a-36dd-4a2a-a59c-1be876f35ea2",
@@ -308,8 +308,8 @@
       "unit_id": null,
       "notes": "4 persone — q.b.",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:51",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:09"
     }
   ],
   "steps": [
@@ -324,7 +324,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:50",
+      "created_at": "2026-09-06 14:39:06",
       "technique_ids": "[]"
     },
     {
@@ -338,7 +338,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:50",
+      "created_at": "2026-09-06 14:39:06",
       "technique_ids": "[]"
     },
     {
@@ -352,7 +352,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:50",
+      "created_at": "2026-09-06 14:39:06",
       "technique_ids": "[]"
     },
     {
@@ -366,7 +366,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:50",
+      "created_at": "2026-09-06 14:39:06",
       "technique_ids": "[]"
     },
     {
@@ -380,7 +380,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:50",
+      "created_at": "2026-09-06 14:39:06",
       "technique_ids": "[]"
     }
   ],

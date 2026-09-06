@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": null,
+  "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:31",
-  "storage_instructions": null,
-  "tips": null,
   "ingredients": [
     {
       "id": "6586d41e-6c06-4db8-8fd8-3479c2b37cc4",
@@ -38,8 +38,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "66660b69-ed7f-41a8-b779-e893c9a5619d",
@@ -53,8 +53,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "c6f6aa27-0842-4910-8f5f-cf41046882a8",
@@ -68,8 +68,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "575a22e5-3242-439c-ade4-c47483dd96fa",
@@ -83,8 +83,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "c1c2ae41-1a7c-4a0e-99e0-56017ecf2b5f",
@@ -98,8 +98,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "cinghiale (polpa magra)",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "7e23682b-6604-4721-adf3-f6ce6efa6708",
@@ -113,8 +113,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "9ac3c334-40e5-4c23-ba2d-6cbacbb27c96",
@@ -128,8 +128,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "4842d188-de93-4d08-8ea0-1efacc3f9f50",
@@ -143,8 +143,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "a63d53d6-99a4-4cb0-a3c3-6bd73632d464",
@@ -158,8 +158,8 @@
       "unit_id": "d548bb01f882fe6fbece1aa7e67f8de8",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "c0f04936-5f52-47a5-b8af-3e0d20af970e",
@@ -173,8 +173,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "passata di pomodoro",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "862df248-7df9-42d2-99e8-2591ef6899f2",
@@ -188,8 +188,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "4dea7390-1df0-44fe-bc09-012404416735",
@@ -203,8 +203,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "0a3d46fe-cfbc-476d-ad07-380cd3e65e56",
@@ -218,8 +218,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "aa97618a-db26-45ca-8c2b-7e15941db40e",
@@ -233,8 +233,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "de738693-6c98-456e-af2e-b347affa5b16",
@@ -248,8 +248,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "cb5709de-ee65-4fad-a3de-90e08598defa",
@@ -263,8 +263,8 @@
       "unit_id": "db4a85cd67b171aabb3c750ad64592fa",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "4670d147-6889-45dc-91cf-261231284b9a",
@@ -278,8 +278,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     },
     {
       "id": "9518c78f-1ac6-4862-886e-f390859f608b",
@@ -293,8 +293,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "farina bianca",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:38",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:39:18"
     }
   ],
   "steps": [
@@ -309,7 +309,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:27",
+      "created_at": "2026-09-06 14:39:17",
       "technique_ids": "[]"
     },
     {
@@ -323,7 +323,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:27",
+      "created_at": "2026-09-06 14:39:17",
       "technique_ids": "[]"
     },
     {
@@ -337,7 +337,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:27",
+      "created_at": "2026-09-06 14:39:17",
       "technique_ids": "[]"
     },
     {
@@ -351,7 +351,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:27",
+      "created_at": "2026-09-06 14:39:17",
       "technique_ids": "[]"
     },
     {
@@ -365,7 +365,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:27",
+      "created_at": "2026-09-06 14:39:17",
       "technique_ids": "[]"
     }
   ],
