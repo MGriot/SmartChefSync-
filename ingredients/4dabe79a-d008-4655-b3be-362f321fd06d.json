@@ -12,10 +12,10 @@
   "fiber_g": null,
   "sugar_g": null,
   "sodium_mg": null,
-  "sync_status": "local",
-  "created_at": "2026-08-21 18:44:58",
-  "updated_at": "2026-08-21 18:46:18",
   "seasonal_months": "[]",
   "synonyms": "[]",
-  "parent_ingredient_id": null
+  "parent_ingredient_id": null,
+  "sync_status": "local",
+  "created_at": "2026-08-21 18:44:58",
+  "updated_at": "2026-08-21 18:46:18"
 }
