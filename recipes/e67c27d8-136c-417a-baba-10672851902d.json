@@ -24,10 +24,10 @@
   "tips": "Adatta acqua in base a farina e umidità.",
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-09-06 19:02:27",
+  "updated_at": "2026-09-06 20:33:12",
   "ingredients": [
     {
-      "id": "058eb6b2-4ccf-4fef-9093-f811d90c6b3a",
+      "id": "da52739e-aebd-40d0-a3d4-08143cfd0cff",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "sort_order": 0,
       "ingredient_id": "00ac77a7-0a5c-4fc1-adc4-8b16eb8d3712",
@@ -39,10 +39,10 @@
       "notes": "1 kg di impasto",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:02:27"
+      "created_at": "2026-09-06 20:33:12"
     },
     {
-      "id": "8f899391-475e-4d4d-8e1e-e5306153a1b7",
+      "id": "bea7e5f2-077d-41bc-9990-2739ad9f6add",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "sort_order": 1,
       "ingredient_id": "ec386f89-1ee3-4945-94ff-768b9b99f692",
@@ -54,10 +54,10 @@
       "notes": "1 kg di impasto",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:02:27"
+      "created_at": "2026-09-06 20:33:12"
     },
     {
-      "id": "0190c6ef-a165-44a3-8302-071c7b0b2f9e",
+      "id": "3c754fb4-54a8-4e39-b767-d220ea59fa86",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "sort_order": 2,
       "ingredient_id": "2bed7d61-aa99-4cfb-9189-e4e6fe001e71",
@@ -69,10 +69,10 @@
       "notes": "1 kg di impasto — (400g se planetaria)",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:02:27"
+      "created_at": "2026-09-06 20:33:12"
     },
     {
-      "id": "e45bcd74-85e0-4d39-a989-b10e52182215",
+      "id": "6b3bcccc-5286-4b57-a4ad-090e482e5b74",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "sort_order": 3,
       "ingredient_id": "7dd98f73-0c12-43ab-a78a-5e79cea7c1a4",
@@ -84,10 +84,10 @@
       "notes": "1 kg di impasto",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:02:27"
+      "created_at": "2026-09-06 20:33:12"
     },
     {
-      "id": "21797bb9-4b15-4443-9c17-9ef56a060451",
+      "id": "1fe5aac1-9f00-4271-825f-f5169ebd58ab",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "sort_order": 4,
       "ingredient_id": "5e0183a4-34d8-4d0d-ae19-35d146b31c9e",
@@ -99,12 +99,12 @@
       "notes": "1 kg di impasto",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:02:27"
+      "created_at": "2026-09-06 20:33:12"
     }
   ],
   "steps": [
     {
-      "id": "7e0f9cfb-01ee-4d06-83ee-c46732877c08",
+      "id": "8ad9d76b-eab9-4262-9bfb-e3ce0f074afd",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "step_number": 1,
       "title": null,
@@ -114,11 +114,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 19:02:27",
+      "created_at": "2026-09-06 20:33:12",
       "technique_ids": "[]"
     },
     {
-      "id": "d3636ebb-0a5e-4e1c-90c5-3dc490e6cfef",
+      "id": "76be6ae4-0fcd-49c3-a58f-7c052b03afc1",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "step_number": 2,
       "title": null,
@@ -128,11 +128,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 19:02:27",
+      "created_at": "2026-09-06 20:33:12",
       "technique_ids": "[]"
     },
     {
-      "id": "1ea9195b-5e74-42b3-a8f7-e8552604909c",
+      "id": "3044de7b-5b12-4e08-9f2c-4a4a87bc7af7",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "step_number": 3,
       "title": null,
@@ -142,11 +142,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 19:02:27",
+      "created_at": "2026-09-06 20:33:12",
       "technique_ids": "[]"
     },
     {
-      "id": "7e3799fd-47b7-4225-a933-81c8fae15603",
+      "id": "c0627855-2458-4ce2-950e-9043dcedc98b",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "step_number": 4,
       "title": null,
@@ -156,11 +156,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 19:02:27",
+      "created_at": "2026-09-06 20:33:12",
       "technique_ids": "[]"
     },
     {
-      "id": "60440a68-8dcf-4981-a137-a04fedaf1d2f",
+      "id": "4fd36126-1a7a-4190-a9ab-db8815049723",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "step_number": 5,
       "title": null,
@@ -170,11 +170,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 19:02:27",
+      "created_at": "2026-09-06 20:33:12",
       "technique_ids": "[]"
     },
     {
-      "id": "a86301db-c898-4b81-b570-77a9f12e6bd7",
+      "id": "35bca426-458b-4807-89f7-e48c4ac7624a",
       "recipe_id": "e67c27d8-136c-417a-baba-10672851902d",
       "step_number": 6,
       "title": null,
@@ -184,12 +184,9 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 19:02:27",
+      "created_at": "2026-09-06 20:33:12",
       "technique_ids": "[]"
     }
   ],
-  "toolIds": [
-    "9d8e65e7-dc13-4a64-871a-b2b5b2d63b9f",
-    "bb26fc44-89f9-4191-be21-df32df202571"
-  ]
+  "toolIds": []
 }
