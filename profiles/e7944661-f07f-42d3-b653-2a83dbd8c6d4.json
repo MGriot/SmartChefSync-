@@ -2,7 +2,8 @@
   "id": "e7944661-f07f-42d3-b653-2a83dbd8c6d4",
   "name": "Matteo",
   "avatar_url": "/assets/chef-7-CsD1SCJP.jpeg",
-  "deleted_at": null,
+  "deleted_at": "2026-09-06 19:35:44",
   "created_at": "2026-08-22 09:48:09",
-  "updated_at": "2026-08-22 09:48:09"
+  "updated_at": "2026-09-06 19:35:44",
+  "role": "user"
 }
