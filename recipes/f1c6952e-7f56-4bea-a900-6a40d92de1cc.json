@@ -1,6 +1,6 @@
 {
   "id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
-  "title": "Mayonnaise",
+  "title": "Authentic Homemade Mayonnaise",
   "description": "A rich, creamy, and traditional French mayonnaise made from scratch using fresh egg yolks, high-quality oil, and a touch of mustard and lemon juice.",
   "difficulty": "medium",
   "servings": 4,
@@ -10,7 +10,7 @@
   "rating": null,
   "yield_amount": 1,
   "yield_unit_id": null,
-  "tags": "[\"condiment\",\"sauce\",\"French\",\"vegetarian\",\"homemade\",\"Vegetariano\",\"Vegano\"]",
+  "tags": "[\"condiment\",\"sauce\",\"French\",\"vegetarian\",\"homemade\",\"Uova\",\"Vegetariano\"]",
   "regions": "[\"France\"]",
   "region_coords": "{}",
   "cover_image_url": null,
@@ -24,102 +24,102 @@
   "tips": "Ensure all ingredients are at room temperature to prevent the emulsion from breaking. If the mayonnaise separates, whisk it slowly into a fresh egg yolk.",
   "sync_status": "local",
   "created_at": "2026-09-06 19:48:19",
-  "updated_at": "2026-09-06 19:53:23",
+  "updated_at": "2026-09-06 20:28:08",
   "ingredients": [
     {
-      "id": "ad754c68-cb8d-4f61-9494-65c7014bb979",
+      "id": "37474799-86cd-432a-8454-ff03423fbec5",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 0,
-      "ingredient_id": null,
+      "ingredient_id": "605ce72d-2ad1-4d6b-bee5-a9ba73fac07d",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 2,
       "quantity_text": null,
-      "unit_id": null,
+      "unit_id": "c81f0baf77a35a1d2ae8f7d5740c72ab",
       "notes": "at room temperature",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:53:23"
+      "created_at": "2026-09-06 20:28:08"
     },
     {
-      "id": "7b26759a-f5a1-4279-842b-8e20a23ed379",
+      "id": "7e879568-676d-4546-8a69-f4d2a38bd68f",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 1,
-      "ingredient_id": null,
+      "ingredient_id": "c2cab6f9-9738-454f-b598-f72716df2ce8",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 1,
       "quantity_text": null,
-      "unit_id": null,
+      "unit_id": "d548bb01f882fe6fbece1aa7e67f8de8",
       "notes": null,
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:53:23"
+      "created_at": "2026-09-06 20:28:08"
     },
     {
-      "id": "038f3dc2-1e9e-4afc-a470-3e8fa7536861",
+      "id": "ef843708-68da-465a-9579-a570e090ef6e",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 2,
-      "ingredient_id": null,
+      "ingredient_id": "3d00e503-ee91-4e84-9dad-a9443198b905",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 1,
       "quantity_text": null,
-      "unit_id": null,
+      "unit_id": "c81f0baf77a35a1d2ae8f7d5740c72ab",
       "notes": "or white wine vinegar",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:53:23"
+      "created_at": "2026-09-06 20:28:08"
     },
     {
-      "id": "e1dfb622-6dce-4348-a152-b8d1074c9056",
+      "id": "42365961-7454-4b97-bd9a-608281eff4cc",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 3,
-      "ingredient_id": null,
+      "ingredient_id": "d4190b92-654b-4c5c-a8bc-904ee8b97a1f",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 250,
       "quantity_text": null,
-      "unit_id": null,
+      "unit_id": "fd557cd3cb0954add18c47d053beb97c",
       "notes": "such as canola, grapeseed, or light olive oil",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:53:23"
+      "created_at": "2026-09-06 20:28:08"
     },
     {
-      "id": "aa25e655-b3c8-41a5-ba26-9cff0daa9862",
+      "id": "a95bf578-6d76-493f-beaa-2c585f384926",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 4,
-      "ingredient_id": null,
+      "ingredient_id": "7dd98f73-0c12-43ab-a78a-5e79cea7c1a4",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 1,
       "quantity_text": null,
-      "unit_id": null,
+      "unit_id": "04e81001fb75cd22aba47e947c3d3ec3",
       "notes": null,
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:53:23"
+      "created_at": "2026-09-06 20:28:08"
     },
     {
-      "id": "17b2d9fc-7743-491e-ae75-3e9dbfd778de",
+      "id": "d1c7459b-383c-49b5-8dfd-65cfa26ba8a8",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 5,
-      "ingredient_id": null,
+      "ingredient_id": "61c74361-4066-49d8-9e02-5e8e301400f6",
       "subtype_id": null,
       "sub_recipe_id": null,
       "quantity": 1,
       "quantity_text": null,
-      "unit_id": null,
+      "unit_id": "04e81001fb75cd22aba47e947c3d3ec3",
       "notes": null,
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 19:53:23"
+      "created_at": "2026-09-06 20:28:08"
     }
   ],
   "steps": [
     {
-      "id": "04052d16-073c-42b6-8fd9-ce92c010ea50",
+      "id": "1b1320a1-f983-4491-ab8a-61f335237f70",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "step_number": 1,
       "title": null,
@@ -129,11 +129,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 19:53:23",
+      "created_at": "2026-09-06 20:28:08",
       "technique_ids": "[]"
     },
     {
-      "id": "6f438b45-d71a-451f-a7f7-4a643b791aaf",
+      "id": "a43aa22e-dee6-42f5-ac55-aebeb50c1a79",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "step_number": 2,
       "title": null,
@@ -143,11 +143,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 19:53:23",
+      "created_at": "2026-09-06 20:28:08",
       "technique_ids": "[]"
     },
     {
-      "id": "9ff7a6f4-fa81-42cc-9155-03769943342b",
+      "id": "0f1a7d86-4fcb-483d-85b6-df57da687bfe",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "step_number": 3,
       "title": null,
@@ -157,9 +157,12 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 19:53:23",
+      "created_at": "2026-09-06 20:28:08",
       "technique_ids": "[]"
     }
   ],
-  "toolIds": []
+  "toolIds": [
+    "52236d32-514b-4633-b685-45d348fd69c0",
+    "dfcccb50-9272-448e-bd5c-dd1fff239a63"
+  ]
 }
