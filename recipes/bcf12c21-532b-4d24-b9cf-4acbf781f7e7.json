@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": null,
+  "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:31",
-  "storage_instructions": null,
-  "tips": null,
   "ingredients": [
     {
       "id": "ce1fbd28-352c-413a-a855-f3d0e5899b64",
@@ -38,8 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:09:39",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:33"
     },
     {
       "id": "9a09186b-efe4-413e-be67-8262baf1e7e3",
@@ -53,8 +53,8 @@
       "unit_id": null,
       "notes": "](https://ricette.giallozafferano.it/ricette-con-Farina-0/) 500 g",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:09:39",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:33"
     },
     {
       "id": "1f6db3f6-a153-4356-aae2-2bb65278cb3b",
@@ -68,8 +68,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:09:39",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:33"
     },
     {
       "id": "15409c14-c47a-482d-a574-d0efc8f59858",
@@ -83,8 +83,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:09:39",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:33"
     },
     {
       "id": "f2e86fcd-98c7-40d9-9869-a05b21d8df16",
@@ -98,8 +98,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:09:39",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:33"
     },
     {
       "id": "8c3c676f-f1b3-4516-add1-a08306f94f33",
@@ -113,8 +113,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:09:39",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:33"
     },
     {
       "id": "0de3acbd-1aab-49df-91c2-7467d19ef96b",
@@ -128,8 +128,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:09:39",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:33"
     }
   ],
   "steps": [
@@ -144,7 +144,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:09:38",
+      "created_at": "2026-09-06 14:38:32",
       "technique_ids": "[]"
     },
     {
@@ -158,7 +158,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:09:38",
+      "created_at": "2026-09-06 14:38:32",
       "technique_ids": "[]"
     },
     {
@@ -172,7 +172,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:09:38",
+      "created_at": "2026-09-06 14:38:32",
       "technique_ids": "[]"
     },
     {
@@ -186,7 +186,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:09:38",
+      "created_at": "2026-09-06 14:38:32",
       "technique_ids": "[]"
     },
     {
@@ -200,7 +200,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:09:38",
+      "created_at": "2026-09-06 14:38:32",
       "technique_ids": "[]"
     },
     {
@@ -214,7 +214,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:09:38",
+      "created_at": "2026-09-06 14:38:32",
       "technique_ids": "[]"
     },
     {
@@ -228,7 +228,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:09:38",
+      "created_at": "2026-09-06 14:38:32",
       "technique_ids": "[]"
     }
   ],

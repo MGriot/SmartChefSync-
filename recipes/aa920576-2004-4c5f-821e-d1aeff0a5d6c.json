@@ -20,14 +20,14 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": "Potete conservare i flan di zucca senza salsa in frigorifero per 2-3 giorni al massimo in un contenitore chiuso ermeticamente o coperti con pellicola trasparente. E' possibile congelare i flan se sono stati utilizzati ingredienti freschi.",
+  "tips": "Questa ricetta si presta per numerose varianti: ad esempio potete arricchire il ripieno del flan di zucca con della pancetta a cubetti oppure sostituire mezza dose di Parmigiano Reggiano DOP con del Pecorino. Se invece preferite rimanere più leggeri, potreste realizzare una crema al caprino utilizzando solo il latte. Colorate la vostra tavola preparando tante diverse ricette di flan, come il flan di porri con salsa alle acciughe, e scoprite anche il nostro sformato di zucca e porcini!\n\nSe volete un composto più liscio potete passare al setaccio l'impasto prima di versarlo nei pirottini.\nColorate la vostra tavola con flan di colori diversi, variando il ripieno alle barbabietole, pomodori, spinaci per creare un aperitivo sfizioso!\nSe preferite un sapore ancora più spiccato, sostituite metà dose di Parmigiano Reggiano DOP per il ripieno con del Pecorino!",
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-09-06 13:31:28",
-  "storage_instructions": "Potete conservare i flan di zucca senza salsa in frigorifero per 2-3 giorni al massimo in un contenitore chiuso ermeticamente o coperti con pellicola trasparente. E' possibile congelare i flan se sono stati utilizzati ingredienti freschi.",
-  "tips": "Questa ricetta si presta per numerose varianti: ad esempio potete arricchire il ripieno del flan di zucca con della pancetta a cubetti oppure sostituire mezza dose di Parmigiano Reggiano DOP con del Pecorino. Se invece preferite rimanere più leggeri, potreste realizzare una crema al caprino utilizzando solo il latte. Colorate la vostra tavola preparando tante diverse ricette di flan, come il flan di porri con salsa alle acciughe, e scoprite anche il nostro sformato di zucca e porcini!\n\nSe volete un composto più liscio potete passare al setaccio l'impasto prima di versarlo nei pirottini.\nColorate la vostra tavola con flan di colori diversi, variando il ripieno alle barbabietole, pomodori, spinaci per creare un aperitivo sfizioso!\nSe preferite un sapore ancora più spiccato, sostituite metà dose di Parmigiano Reggiano DOP per il ripieno con del Pecorino!",
   "ingredients": [
     {
-      "id": "5e770783-428c-4c37-b992-a8405bac265e",
+      "id": "a96b3a44-e12e-4ee7-af03-e9da469d7b92",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 0,
       "ingredient_id": "cfc4ace0-2dff-41a9-9b86-4466b0ed1605",
@@ -36,13 +36,13 @@
       "quantity": 300,
       "quantity_text": null,
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
-      "notes": null,
+      "notes": "8 flan",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     },
     {
-      "id": "90d85b2c-64f9-4d08-8f3c-b3a6e7783f0b",
+      "id": "adf64d23-8445-48a4-bdc9-8fd977678027",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 1,
       "ingredient_id": "b310f668-1735-4b04-8259-935c2c652c4b",
@@ -51,13 +51,13 @@
       "quantity": 1,
       "quantity_text": null,
       "unit_id": null,
-      "notes": null,
+      "notes": "8 flan",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     },
     {
-      "id": "00cd113e-05da-4a06-ae27-a5a212094055",
+      "id": "c5021989-8e57-4a50-a442-b783dae0b3c8",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 2,
       "ingredient_id": "78975e73-e68d-4288-9bb0-348b8aa01013",
@@ -66,13 +66,13 @@
       "quantity": 150,
       "quantity_text": null,
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
-      "notes": null,
+      "notes": "8 flan",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     },
     {
-      "id": "eb2737e0-4138-4897-a88a-f1a9cfe8dd09",
+      "id": "e4c9567f-9fdd-40f1-bec7-fba60fa7a63d",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 3,
       "ingredient_id": "3c68d72d-372f-47d2-9f4a-84420ea53ec4",
@@ -81,13 +81,13 @@
       "quantity": 3,
       "quantity_text": null,
       "unit_id": null,
-      "notes": null,
+      "notes": "8 flan",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     },
     {
-      "id": "cb0384a6-8e7e-4125-94d8-f40c780b347f",
+      "id": "93dcee44-e244-4b7e-a2cb-d5d9992a4265",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 4,
       "ingredient_id": "1a5ab6e9-69e3-4a16-aaa1-b27245b2f185",
@@ -96,13 +96,13 @@
       "quantity": 3,
       "quantity_text": null,
       "unit_id": "8d6748bc3660f567389a24500af8aa21",
-      "notes": null,
+      "notes": "8 flan",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     },
     {
-      "id": "315afe57-1411-47fa-a789-4d5c482a9924",
+      "id": "8a63c795-4cd4-4e05-878b-8668f374afab",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 5,
       "ingredient_id": "6bc89ca5-b066-402f-b735-18d04843f23b",
@@ -110,14 +110,14 @@
       "sub_recipe_id": null,
       "quantity": null,
       "quantity_text": "q.b.",
-      "unit_id": "04e81001fb75cd22aba47e947c3d3ec3",
-      "notes": null,
+      "unit_id": null,
+      "notes": "8 flan — q.b.",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     },
     {
-      "id": "fb15a859-9767-4173-a0e9-8de4ad777913",
+      "id": "604f15c5-ceb1-4007-9dd8-ef0303299d37",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 6,
       "ingredient_id": "aa1adbf4-5c3c-48d8-afbd-8b14d3c42a9d",
@@ -126,13 +126,13 @@
       "quantity": 150,
       "quantity_text": null,
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
-      "notes": null,
+      "notes": "8 flan — fresca",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     },
     {
-      "id": "3853d594-fb31-459b-bd41-b5d51237f9b9",
+      "id": "20d5d957-476e-4629-a92e-fbfa762c4fbb",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 7,
       "ingredient_id": "089e96e8-d04e-4fdc-908a-0940c8f2317a",
@@ -143,11 +143,11 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Fonduta al Gorgonzola",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     },
     {
-      "id": "5f091ff7-ec83-458a-901f-e8fc8da001e2",
+      "id": "8850e1f7-d27c-447a-96c2-d71fc633a7ee",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 8,
       "ingredient_id": "aa1adbf4-5c3c-48d8-afbd-8b14d3c42a9d",
@@ -158,11 +158,11 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Fonduta al Gorgonzola — fresca liquida",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     },
     {
-      "id": "3f7460e0-68a4-4c57-b853-cd00390b2dcd",
+      "id": "087092be-ecc9-492a-a605-25a2b1813dc1",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 9,
       "ingredient_id": "78975e73-e68d-4288-9bb0-348b8aa01013",
@@ -173,11 +173,11 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Fonduta al Gorgonzola",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     },
     {
-      "id": "b230138e-7a14-4324-a9d6-049d717c49c8",
+      "id": "b27136f8-41e7-4841-a838-98dd13ff7527",
       "recipe_id": "aa920576-2004-4c5f-821e-d1aeff0a5d6c",
       "sort_order": 10,
       "ingredient_id": "3641cec4-d2ba-40c1-9b5e-219295feb2b8",
@@ -188,8 +188,8 @@
       "unit_id": null,
       "notes": "Per ungere gli stampini — q.b.",
       "is_optional": 0,
-      "created_at": "2026-09-06 13:31:28",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:38:36"
     }
   ],
   "steps": [
