@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": null,
+  "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:31",
-  "storage_instructions": null,
-  "tips": null,
   "ingredients": [
     {
       "id": "c3f4006e-f6bf-47a8-9bde-ea3b29514e04",
@@ -38,8 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:21",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:04"
     },
     {
       "id": "754b9414-3605-4a71-99c7-652db37ba9f4",
@@ -53,8 +53,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:21",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:05"
     },
     {
       "id": "dbb606ed-04eb-4494-ab26-838f11ec875f",
@@ -68,8 +68,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:21",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:05"
     },
     {
       "id": "71d61758-9857-474e-9fca-d5d0fec5cbab",
@@ -83,8 +83,8 @@
       "unit_id": "fd557cd3cb0954add18c47d053beb97c",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:21",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:05"
     },
     {
       "id": "3c0e0dbc-ebf4-4de4-9f5d-d33944d36c65",
@@ -98,8 +98,8 @@
       "unit_id": "c81f0baf77a35a1d2ae8f7d5740c72ab",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:21",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:05"
     },
     {
       "id": "5b5f5557-3614-4235-a0ca-46b15625b395",
@@ -113,8 +113,8 @@
       "unit_id": "d548bb01f882fe6fbece1aa7e67f8de8",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:21",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:05"
     },
     {
       "id": "ea4d96b4-a251-4418-b99f-feb3917afa08",
@@ -128,8 +128,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:21",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:05"
     },
     {
       "id": "d1e88528-f29e-486b-868c-bb109e04736f",
@@ -143,8 +143,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:21",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:05"
     },
     {
       "id": "7f3f1fc6-b5a4-43d3-8139-3d0ee590d14a",
@@ -158,8 +158,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:21",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:05"
     },
     {
       "id": "278b87b3-df91-40fd-99e7-9bd08b005672",
@@ -173,8 +173,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:21",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:05"
     }
   ],
   "steps": [
