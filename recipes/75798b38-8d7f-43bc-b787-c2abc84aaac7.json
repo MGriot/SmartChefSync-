@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": null,
+  "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-21 18:32:27",
-  "storage_instructions": null,
-  "tips": null,
   "ingredients": [
     {
       "id": "62841780-0a8c-4ac6-9458-0c4785dceae8",
@@ -38,8 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:47",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-08-23 07:10:47"
     },
     {
       "id": "ddd81aa6-f178-433f-ae16-d6d56e323c5b",
@@ -53,8 +53,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:47",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-08-23 07:10:47"
     },
     {
       "id": "ccb4c419-36b4-43c3-9caf-1ac47a7bc5d0",
@@ -68,8 +68,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": ", 7 circa,",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:47",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-08-23 07:10:47"
     },
     {
       "id": "86413241-2819-4119-811f-60098cc9077d",
@@ -83,8 +83,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:47",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-08-23 07:10:47"
     },
     {
       "id": "de0369ec-230b-4b73-80e0-270eefc50100",
@@ -98,8 +98,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:47",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-08-23 07:10:47"
     },
     {
       "id": "f08a45b7-82a3-4698-b046-9688e1c4b22b",
@@ -113,8 +113,8 @@
       "unit_id": null,
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:47",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-08-23 07:10:47"
     }
   ],
   "steps": [
@@ -129,7 +129,7 @@
       "notes": null,
       "image_url": "https://ricette.giallozafferano.it/images/ricette/215/21565/21565_crema_pasticcera_strip_1-3.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:46",
+      "created_at": "2026-09-06 14:37:21",
       "technique_ids": "[]"
     },
     {
@@ -143,7 +143,7 @@
       "notes": null,
       "image_url": "https://ricette.giallozafferano.it/images/ricette/215/21565/21565_crema_pasticcera_strip_4-6.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:46",
+      "created_at": "2026-09-06 14:37:21",
       "technique_ids": "[]"
     },
     {
@@ -157,7 +157,7 @@
       "notes": null,
       "image_url": "https://ricette.giallozafferano.it/images/ricette/215/21565/21565_crema_pasticcera_strip_7-9.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:46",
+      "created_at": "2026-09-06 14:37:21",
       "technique_ids": "[]"
     },
     {
@@ -171,7 +171,7 @@
       "notes": null,
       "image_url": "https://ricette.giallozafferano.it/images/ricette/215/21565/21565_crema_pasticcera_strip_10-12.jpg",
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:46",
+      "created_at": "2026-09-06 14:37:21",
       "technique_ids": "[]"
     }
   ],
