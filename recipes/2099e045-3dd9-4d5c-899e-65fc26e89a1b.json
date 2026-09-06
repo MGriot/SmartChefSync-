@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": null,
+  "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-21 18:30:32",
-  "storage_instructions": null,
-  "tips": null,
   "ingredients": [
     {
       "id": "47890f52-95f6-43a1-b22d-5fd7938d7722",
@@ -38,8 +38,8 @@
       "unit_id": null,
       "notes": "Per una tortiera da 24 cm — medie, a temperatura ambiente",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:11",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:29"
     },
     {
       "id": "faa7db8b-f2b2-4959-8801-208144ef73bb",
@@ -53,8 +53,8 @@
       "unit_id": null,
       "notes": "Per una tortiera da 24 cm",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:11",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:29"
     },
     {
       "id": "46a01278-ea00-4836-84f9-76d9034f3fb3",
@@ -68,8 +68,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per una tortiera da 24 cm — per tutti gli usi (00)",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:11",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:29"
     },
     {
       "id": "70901204-706b-4ab2-b5b9-61308fc007cd",
@@ -83,8 +83,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per una tortiera da 24 cm",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:11",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:29"
     },
     {
       "id": "e3d22ed6-12cb-40f8-846d-833d20014e1c",
@@ -98,8 +98,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "Per una tortiera da 24 cm",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:11",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:29"
     },
     {
       "id": "1923752a-615b-4758-90fc-6c6968a1108d",
@@ -113,8 +113,8 @@
       "unit_id": null,
       "notes": "Per una tortiera da 24 cm — pizzico di fino",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:11:11",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:29"
     }
   ],
   "steps": [
@@ -129,7 +129,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:11:08",
+      "created_at": "2026-09-06 14:36:27",
       "technique_ids": "[]"
     },
     {
@@ -143,7 +143,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:11:08",
+      "created_at": "2026-09-06 14:36:27",
       "technique_ids": "[]"
     },
     {
@@ -157,7 +157,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:11:08",
+      "created_at": "2026-09-06 14:36:27",
       "technique_ids": "[]"
     },
     {
@@ -171,7 +171,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:11:08",
+      "created_at": "2026-09-06 14:36:27",
       "technique_ids": "[]"
     },
     {
@@ -185,7 +185,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:11:08",
+      "created_at": "2026-09-06 14:36:27",
       "technique_ids": "[]"
     },
     {
@@ -199,7 +199,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:11:08",
+      "created_at": "2026-09-06 14:36:27",
       "technique_ids": "[]"
     }
   ],

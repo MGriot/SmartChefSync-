@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": null,
+  "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-20 12:28:36",
-  "storage_instructions": null,
-  "tips": null,
   "ingredients": [
     {
       "id": "2d14109c-7505-402a-88f7-907f00d7a9d0",
@@ -38,8 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     },
     {
       "id": "6903973e-fdec-4ac2-b535-efedbc1ca66a",
@@ -53,8 +53,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     },
     {
       "id": "f1948004-9b92-4bc3-ad87-53f353944c4a",
@@ -68,8 +68,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     },
     {
       "id": "ee3b3bec-9c43-4138-a573-956a3bd60def",
@@ -83,8 +83,8 @@
       "unit_id": "c81f0baf77a35a1d2ae8f7d5740c72ab",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     },
     {
       "id": "b138bab5-a20c-4a3c-b299-f06d1abc6865",
@@ -98,8 +98,8 @@
       "unit_id": "db4a85cd67b171aabb3c750ad64592fa",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     },
     {
       "id": "897a3ad0-6734-490f-ae48-078475569f01",
@@ -113,8 +113,8 @@
       "unit_id": "c81f0baf77a35a1d2ae8f7d5740c72ab",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     },
     {
       "id": "d4d80a26-60f7-4228-9932-c9a37956f56c",
@@ -128,8 +128,8 @@
       "unit_id": "04e81001fb75cd22aba47e947c3d3ec3",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     },
     {
       "id": "1b6b2990-f5f9-44f9-a070-9ff6d487223e",
@@ -143,8 +143,8 @@
       "unit_id": "04e81001fb75cd22aba47e947c3d3ec3",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     },
     {
       "id": "26c30bcb-d79b-4b0c-adeb-d7d1d6853075",
@@ -158,8 +158,8 @@
       "unit_id": "04e81001fb75cd22aba47e947c3d3ec3",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     },
     {
       "id": "a1a4b1a0-1a1a-4a1a-8a1a-1a1a1a1a1a11",
@@ -173,8 +173,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     },
     {
       "id": "b2b4b1a0-2a2a-4a1a-8a1a-1a1a1a1a1a22",
@@ -188,8 +188,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": null,
       "is_optional": 0,
-      "created_at": "2026-08-23 07:06:57",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:37:10"
     }
   ],
   "steps": [
@@ -204,7 +204,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:56",
+      "created_at": "2026-09-06 14:37:09",
       "technique_ids": "[]"
     },
     {
@@ -218,7 +218,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:56",
+      "created_at": "2026-09-06 14:37:09",
       "technique_ids": "[]"
     },
     {
@@ -232,7 +232,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:06:56",
+      "created_at": "2026-09-06 14:37:09",
       "technique_ids": "[]"
     }
   ],

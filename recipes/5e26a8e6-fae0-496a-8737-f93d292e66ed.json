@@ -20,11 +20,11 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
+  "storage_instructions": null,
+  "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
   "updated_at": "2026-08-21 16:56:48",
-  "storage_instructions": null,
-  "tips": null,
   "ingredients": [
     {
       "id": "ecaeac81-c1a5-4863-9f9f-a3863c99593b",
@@ -38,8 +38,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "4 panetti — 13g proteine (30% della farina totale)",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:27",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:49"
     },
     {
       "id": "f518187b-04b3-4cbd-aaae-62c1817647c7",
@@ -53,8 +53,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "4 panetti — 12g proteine (70% della farina totale)",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:27",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:49"
     },
     {
       "id": "64ed7df5-7d84-4553-a3b2-4381bdff2112",
@@ -68,8 +68,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "4 panetti — (fresco) o 27g (lievito madre) o 0,09g (secco)",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:27",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:49"
     },
     {
       "id": "eae99a87-8f89-4bb2-955d-14dc3aeb167b",
@@ -83,8 +83,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "4 panetti — (calda o a 25 gradi centigradi)",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:27",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:49"
     },
     {
       "id": "28843a98-7048-432c-b57f-60d31bccefb5",
@@ -98,8 +98,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "4 panetti",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:27",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:49"
     },
     {
       "id": "f9c38089-ad17-4bff-8201-1501f574525a",
@@ -113,8 +113,8 @@
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
       "notes": "4 panetti — fino a 50 g (a piacere)",
       "is_optional": 0,
-      "created_at": "2026-08-23 07:10:27",
-      "group_name": null
+      "group_name": null,
+      "created_at": "2026-09-06 14:36:49"
     }
   ],
   "steps": [
@@ -129,7 +129,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -143,7 +143,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -157,7 +157,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -171,7 +171,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -185,7 +185,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -199,7 +199,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -213,7 +213,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -227,7 +227,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -241,7 +241,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -255,7 +255,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -269,7 +269,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     },
     {
@@ -283,7 +283,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-08-23 07:10:26",
+      "created_at": "2026-09-06 14:36:48",
       "technique_ids": "[]"
     }
   ],
