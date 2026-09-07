@@ -24,25 +24,25 @@
   "tips": "Utilizzarla principalmente in piatti a base di pesce e crostacei.",
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-09-06 20:32:12",
+  "updated_at": "2026-09-07 19:18:10",
   "ingredients": [
     {
-      "id": "51d189ea-4c1c-44ca-8e59-f01251036c0a",
+      "id": "d2619075-0a9f-471c-a02a-7bfe5e33a996",
       "recipe_id": "9ede8341-497b-4932-b878-3e3e62a7656f",
       "sort_order": 0,
       "ingredient_id": null,
       "subtype_id": null,
-      "sub_recipe_id": null,
+      "sub_recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "quantity": 250,
       "quantity_text": null,
-      "unit_id": null,
+      "unit_id": "fd557cd3cb0954add18c47d053beb97c",
       "notes": null,
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 20:32:12"
+      "created_at": "2026-09-07 19:18:10"
     },
     {
-      "id": "b56cb647-c02b-4ce0-9c0e-8e433477454e",
+      "id": "b21ca3fd-c9e9-4873-968e-2d8b392183c2",
       "recipe_id": "9ede8341-497b-4932-b878-3e3e62a7656f",
       "sort_order": 1,
       "ingredient_id": "884abf1e-2d18-467f-9115-ab6c3e5f33f4",
@@ -54,10 +54,10 @@
       "notes": null,
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 20:32:12"
+      "created_at": "2026-09-07 19:18:10"
     },
     {
-      "id": "e5455861-83a7-4464-a6e2-531f98291c7a",
+      "id": "cc72de0e-7088-4da4-a41f-98cf2a33dc59",
       "recipe_id": "9ede8341-497b-4932-b878-3e3e62a7656f",
       "sort_order": 2,
       "ingredient_id": "37028545-6f21-463e-b50d-43c106f375dc",
@@ -69,12 +69,12 @@
       "notes": null,
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 20:32:12"
+      "created_at": "2026-09-07 19:18:10"
     }
   ],
   "steps": [
     {
-      "id": "73f01003-ebbf-4e93-bd06-da5959a67024",
+      "id": "b06ea07c-d296-4e5e-8703-dc2a9d93f21c",
       "recipe_id": "9ede8341-497b-4932-b878-3e3e62a7656f",
       "step_number": 1,
       "title": null,
@@ -84,11 +84,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 20:32:12",
+      "created_at": "2026-09-07 19:18:10",
       "technique_ids": "[]"
     },
     {
-      "id": "8a739b84-c7c6-4b0d-93af-1d87f3baf922",
+      "id": "b63c797b-d2cb-4e63-ba5e-dc8a6c2c9869",
       "recipe_id": "9ede8341-497b-4932-b878-3e3e62a7656f",
       "step_number": 2,
       "title": null,
@@ -98,7 +98,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 20:32:12",
+      "created_at": "2026-09-07 19:18:10",
       "technique_ids": "[]"
     }
   ],
