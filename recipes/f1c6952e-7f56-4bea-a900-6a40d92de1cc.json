@@ -13,7 +13,7 @@
   "tags": "[\"condiment\",\"sauce\",\"French\",\"vegetarian\",\"homemade\",\"Uova\",\"Vegetariano\"]",
   "regions": "[\"FR\"]",
   "region_coords": "{}",
-  "cover_image_url": null,
+  "cover_image_url": "https://www.aiafood.com/_next/image/?url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Fxxl_maionese_con_il_minipimer_la_ricetta_velocissima_d142cfe399.webp&w=1920&q=80",
   "source_url": null,
   "sources": "[]",
   "is_component": 0,
@@ -24,10 +24,10 @@
   "tips": "Ensure all ingredients are at room temperature to prevent the emulsion from breaking. If the mayonnaise separates, whisk it slowly into a fresh egg yolk.",
   "sync_status": "local",
   "created_at": "2026-09-06 19:48:19",
-  "updated_at": "2026-09-07 19:22:46",
+  "updated_at": "2026-09-07 19:43:27",
   "ingredients": [
     {
-      "id": "3e85b89c-b5d8-47e2-8f91-3912647c6cf6",
+      "id": "7b219f42-246c-4089-8358-a31387e0f5f1",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 0,
       "ingredient_id": "605ce72d-2ad1-4d6b-bee5-a9ba73fac07d",
@@ -39,10 +39,10 @@
       "notes": "at room temperature",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-07 19:22:46"
+      "created_at": "2026-09-07 19:43:28"
     },
     {
-      "id": "7732d1c9-9c55-4010-b82a-08547195adef",
+      "id": "744d338a-f57f-4c04-a79d-3a491872f6ca",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 1,
       "ingredient_id": "c2cab6f9-9738-454f-b598-f72716df2ce8",
@@ -54,10 +54,10 @@
       "notes": null,
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-07 19:22:46"
+      "created_at": "2026-09-07 19:43:28"
     },
     {
-      "id": "ac618102-27fe-4102-98f2-e81a82da60a5",
+      "id": "0fd3dfa5-6bdf-4bca-bbef-d68382f16380",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 2,
       "ingredient_id": "3d00e503-ee91-4e84-9dad-a9443198b905",
@@ -69,10 +69,10 @@
       "notes": "or white wine vinegar",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-07 19:22:46"
+      "created_at": "2026-09-07 19:43:29"
     },
     {
-      "id": "19844590-4c4d-4514-bdd5-a1dd77d112a3",
+      "id": "746cc911-1e47-4701-8205-bd346ed90829",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 3,
       "ingredient_id": "d4190b92-654b-4c5c-a8bc-904ee8b97a1f",
@@ -84,10 +84,10 @@
       "notes": "such as canola, grapeseed, or light olive oil",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-07 19:22:46"
+      "created_at": "2026-09-07 19:43:29"
     },
     {
-      "id": "58f9ff39-6e6a-4125-9d7a-00d70617f958",
+      "id": "506bdd9d-44b2-4dd5-9595-2a82b7355e05",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 4,
       "ingredient_id": "7dd98f73-0c12-43ab-a78a-5e79cea7c1a4",
@@ -99,10 +99,10 @@
       "notes": null,
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-07 19:22:46"
+      "created_at": "2026-09-07 19:43:29"
     },
     {
-      "id": "c95f83e7-9659-4697-9925-abbaa007f9df",
+      "id": "33a4516b-8863-411b-8e16-253fae465fc1",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "sort_order": 5,
       "ingredient_id": "61c74361-4066-49d8-9e02-5e8e301400f6",
@@ -114,12 +114,12 @@
       "notes": null,
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-07 19:22:46"
+      "created_at": "2026-09-07 19:43:29"
     }
   ],
   "steps": [
     {
-      "id": "66df342f-30dd-44cc-9bd6-55a9c118a982",
+      "id": "82a4a4e5-7f2f-427d-844e-ce868694cb42",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "step_number": 1,
       "title": null,
@@ -129,11 +129,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-07 19:22:46",
+      "created_at": "2026-09-07 19:43:29",
       "technique_ids": "[]"
     },
     {
-      "id": "1eaf5c94-7bd2-4e36-b092-b63d0f64ecac",
+      "id": "f060482a-8e20-4ef1-a1d3-020deefc9897",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "step_number": 2,
       "title": null,
@@ -143,11 +143,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-07 19:22:46",
+      "created_at": "2026-09-07 19:43:29",
       "technique_ids": "[]"
     },
     {
-      "id": "94e688bb-e10d-4d6a-aca1-0fbafaded05c",
+      "id": "70bebcff-7068-4536-8ac1-607a2fe963b8",
       "recipe_id": "f1c6952e-7f56-4bea-a900-6a40d92de1cc",
       "step_number": 3,
       "title": null,
@@ -157,7 +157,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-07 19:22:46",
+      "created_at": "2026-09-07 19:43:29",
       "technique_ids": "[]"
     }
   ],
