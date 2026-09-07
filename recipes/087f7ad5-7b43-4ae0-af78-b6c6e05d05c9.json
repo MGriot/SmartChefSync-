@@ -1,7 +1,7 @@
 {
   "id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
   "title": "Hummus",
-  "description": "L'hummus è una salsa tipica della cucina mediorientale a base di ceci e tahina, apprezzata in tutto il mondo per la sua versatilità e facilità di preparazione. È ideale per chi segue una dieta vegana o vegetariana. La ricetta tradizionale prevede l'uso di mortaio e pestello, ma è possibile utilizzare un frullatore per comodità. L'hummus può essere aromatizzato con paprika e prezzemolo e servito con pita, falafel o verdure. Inoltre, esistono numerose varianti come l'hummus di avocado, peperoni, piselli, barbabietola, lenticchie e fagioli.\n\nNote: **Strumenti di Preparazione**: Puoi scegliere di utilizzare un frullatore per una consistenza più liscia o un mortaio per una consistenza più rustica.\n**Personalizzazione della Ricetta**: Puoi aggiungere ingredienti come curry, curcuma, menta, coriandolo, zenzero in polvere, cumino o peperoncino per personalizzare il sapore dell'hummus.\n**Varianti dell'Hummus**: Esistono numerose varianti dell'hummus che puoi provare, come l'hummus di avocado, peperoni, piselli, barbabietola, lenticchie e fagioli.\n\nConservazione: L'hummus si può conservare in frigorifero per 3-4 giorni in un barattolo ermetico ricoperto con uno strato di olio. Si sconsiglia la congelazione.",
+  "description": "L'hummus è una salsa tipica della cucina mediorientale a base di ceci e tahina, apprezzata in tutto il mondo per la sua versatilità e facilità di preparazione. È ideale per chi segue una dieta vegana o vegetariana. La ricetta tradizionale prevede l'uso di mortaio e pestello, ma è possibile utilizzare un frullatore per comodità. L'hummus può essere aromatizzato con paprika e prezzemolo e servito con pita, falafel o verdure. Inoltre, esistono numerose varianti come l'hummus di avocado, peperoni, piselli, barbabietola, lenticchie e fagioli.\n",
   "difficulty": "easy",
   "servings": 4,
   "prep_time_min": 15,
@@ -11,8 +11,8 @@
   "yield_amount": null,
   "yield_unit_id": null,
   "tags": "[\"Vegetariano\",\"Appetizer\",\"Contorno\",\"snack\",\"lunch\",\"dinner\",\"middle eastern\",\"Vegano\"]",
-  "regions": "[]",
-  "region_coords": "{}",
+  "regions": "[\"SY\",\"EG\",\"JO\",\"PS\",\"IL\",\"TR\",\"CY\",\"LB\"]",
+  "region_coords": "{\"pinerolo\":{\"lat\":44.8873086,\"lng\":7.3319454}}",
   "cover_image_url": "https://www.giallozafferano.it/images/243-24308/Hummus_450x300.jpg",
   "source_url": "https://ricette.giallozafferano.it/Hummus.html",
   "sources": "[{\"url\":\"https://ricette.giallozafferano.it/Hummus.html\",\"type\":\"url\",\"label\":\"Ricetta originale\"}]",
@@ -20,14 +20,14 @@
   "language_code": "it",
   "times_cooked": 0,
   "creator_name": null,
-  "storage_instructions": null,
-  "tips": null,
+  "storage_instructions": "L'hummus si può conservare in frigorifero per 3-4 giorni in un barattolo ermetico ricoperto con uno strato di olio. \nPuoi aggiungere ingredienti come curry, curcuma, menta, coriandolo, zenzero in polvere, cumino o peperoncino per personalizzare il sapore dell'hummus.\nSi sconsiglia la congelazione. Esistono numerose varianti dell'hummus che puoi provare, come l'hummus di avocado, peperoni, piselli, barbabietola, lenticchie e fagioli.",
+  "tips": " Puoi scegliere di utilizzare un frullatore per una consistenza più liscia o un mortaio per una consistenza più rustica.",
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:03",
-  "updated_at": "2026-08-21 17:17:10",
+  "updated_at": "2026-09-07 20:03:45",
   "ingredients": [
     {
-      "id": "e45ee817-4e48-4b55-b0ad-940716a1fc6b",
+      "id": "edd5da35-717b-4ee6-9c1f-186fd895fc0c",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 0,
       "ingredient_id": "326b2abb-2148-45f1-a82c-4c6890a80d9c",
@@ -39,10 +39,10 @@
       "notes": "700 g di hummus — precotti",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:45"
     },
     {
-      "id": "faabde70-2694-4797-81dd-a7dae726db39",
+      "id": "f0cf51ce-8bae-4ac0-bd1f-6b3b5e1f0b6d",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 1,
       "ingredient_id": "88bded34-ccb1-4c14-94f5-32815cc029c7",
@@ -54,10 +54,10 @@
       "notes": "700 g di hummus",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:45"
     },
     {
-      "id": "7860fcef-082a-4074-bd80-25c306347b9b",
+      "id": "42de8120-5389-4e5e-9507-2dfc05fdad74",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 2,
       "ingredient_id": "fff908a4-14a0-4ce8-8715-3c09e9d5100c",
@@ -69,10 +69,10 @@
       "notes": "700 g di hummus",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:45"
     },
     {
-      "id": "756ef1fa-049a-4702-abfc-31dde59de6f7",
+      "id": "8222d578-d365-442f-b8dc-13c0706c65bb",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 3,
       "ingredient_id": "3d00e503-ee91-4e84-9dad-a9443198b905",
@@ -84,10 +84,10 @@
       "notes": "700 g di hummus",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:45"
     },
     {
-      "id": "9a035934-5851-4ff1-a174-9ffae3d64e8b",
+      "id": "ecaa9298-2b20-412d-8a34-9bcc54e5d015",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 4,
       "ingredient_id": "b310f668-1735-4b04-8259-935c2c652c4b",
@@ -99,10 +99,10 @@
       "notes": "700 g di hummus",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:45"
     },
     {
-      "id": "cb387a50-a07e-486f-b028-c29f13e49cb8",
+      "id": "338b399e-46d4-43a2-badc-e8c12db2ad67",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 5,
       "ingredient_id": "7dd98f73-0c12-43ab-a78a-5e79cea7c1a4",
@@ -114,10 +114,10 @@
       "notes": "700 g di hummus — q.b.",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:46"
     },
     {
-      "id": "1fd4e751-e15d-4e0a-8713-1c616165e536",
+      "id": "6f2d1917-9329-43b2-b864-97bbcbdb3221",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 6,
       "ingredient_id": "2bed7d61-aa99-4cfb-9189-e4e6fe001e71",
@@ -129,10 +129,10 @@
       "notes": "700 g di hummus — q.b.",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:46"
     },
     {
-      "id": "74c8cc39-0c1e-4afe-b822-52eb4ebcb8e1",
+      "id": "ef3d668c-0884-435f-af97-ae541351a95c",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 7,
       "ingredient_id": "2d436a03-e41d-439b-8e05-d73540fd492d",
@@ -144,10 +144,10 @@
       "notes": "per guarnire — q.b.",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:46"
     },
     {
-      "id": "d47f3f1d-eda3-4229-964b-3c3448b2b9ed",
+      "id": "c58b328a-b32b-42c6-b204-8c31978cc1df",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 8,
       "ingredient_id": "fff908a4-14a0-4ce8-8715-3c09e9d5100c",
@@ -159,10 +159,10 @@
       "notes": "per guarnire — q.b.",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:46"
     },
     {
-      "id": "25bae92e-22b7-4c9e-a51e-ec682f2099ac",
+      "id": "e17db0f4-e38e-488c-b3e1-2a25b6fea046",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 9,
       "ingredient_id": "ac3046fc-adf2-4b8b-9278-ba696b10aa65",
@@ -174,10 +174,10 @@
       "notes": "per guarnire — q.b.",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:46"
     },
     {
-      "id": "c2064d0a-d541-4173-9cf2-31d2dc1d1181",
+      "id": "6492d5ca-868e-47b6-9db3-0f45fb322314",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "sort_order": 10,
       "ingredient_id": "2ade464a-f640-4d19-b5d5-028b3a5feb70",
@@ -189,12 +189,12 @@
       "notes": "per guarnire — q.b.",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:34:06"
+      "created_at": "2026-09-07 20:03:46"
     }
   ],
   "steps": [
     {
-      "id": "7ca68aa0-9171-417b-81b5-dd47cfbd9cad",
+      "id": "bb1fde21-e0f3-48f9-8abb-02ea49b0394d",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "step_number": 1,
       "title": null,
@@ -204,11 +204,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:33:59",
+      "created_at": "2026-09-07 20:03:47",
       "technique_ids": "[]"
     },
     {
-      "id": "6a2708db-e5e7-4b0e-9600-95bc7bf6abaf",
+      "id": "507db32d-9b4b-47cd-a839-6a3a6423c0a9",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "step_number": 2,
       "title": null,
@@ -218,11 +218,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:33:59",
+      "created_at": "2026-09-07 20:03:47",
       "technique_ids": "[]"
     },
     {
-      "id": "db4162c9-ecc3-4736-9f77-1d67b535d949",
+      "id": "97d814d2-baf5-4c57-8f5a-7ea6c74d13e9",
       "recipe_id": "087f7ad5-7b43-4ae0-af78-b6c6e05d05c9",
       "step_number": 3,
       "title": null,
@@ -232,7 +232,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:33:59",
+      "created_at": "2026-09-07 20:03:48",
       "technique_ids": "[]"
     }
   ],
