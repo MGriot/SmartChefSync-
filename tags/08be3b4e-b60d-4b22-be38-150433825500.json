@@ -1,13 +1,13 @@
 {
   "id": "08be3b4e-b60d-4b22-be38-150433825500",
-  "name": "formaggio",
-  "group_name": "Altro",
-  "color": null,
-  "icon": null,
+  "name": "Cheese",
+  "group_name": "Contiene",
+  "color": "#e3d67d",
+  "icon": "TbCheese",
   "exclude_tag_ids": "[]",
   "sort_order": 0,
   "deleted_at": null,
   "created_at": "2026-09-08 18:52:12",
-  "updated_at": "2026-09-08 18:52:12",
+  "updated_at": "2026-09-08 18:54:20",
   "synonyms": "[]"
 }
