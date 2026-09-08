@@ -10,7 +10,7 @@
   "rating": null,
   "yield_amount": null,
   "yield_unit_id": null,
-  "tags": "[\"carne\",\"cinghiale\",\"piatto unico\",\"Lattosio\"]",
+  "tags": "[\"carne\",\"piatto unico\",\"Lattosio\"]",
   "regions": "[]",
   "region_coords": "{}",
   "cover_image_url": "https://www.giallozafferano.it/images/7-793/Spezzatino-di-cinghiale_650x433_wm.jpg",
@@ -24,7 +24,7 @@
   "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:03",
-  "updated_at": "2026-08-20 12:28:32",
+  "updated_at": "2026-09-08 18:51:14",
   "ingredients": [
     {
       "id": "feb062d7-cd86-4939-8a02-ee185bf6400a",
