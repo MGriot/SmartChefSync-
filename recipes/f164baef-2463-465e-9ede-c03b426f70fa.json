@@ -10,7 +10,7 @@
   "rating": null,
   "yield_amount": 4,
   "yield_unit_id": null,
-  "tags": "[\"Pollo\",\"Agrodolce\",\"Fritto\",\"Secondo Piatto\",\"Vegetariano\",\"Vegano\",\"Carne\"]",
+  "tags": "[\"Agrodolce\",\"Fritto\",\"Secondo Piatto\",\"Vegetariano\",\"Vegano\",\"Carne\"]",
   "regions": "[]",
   "region_coords": "{}",
   "cover_image_url": null,
@@ -24,7 +24,7 @@
   "tips": "Servire subito appena mantecati per evitare che la pastella perda croccantezza.",
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-09-08 21:09:49",
+  "updated_at": "2026-09-08 21:10:17",
   "ingredients": [
     {
       "id": "f1b8948f-0793-4779-96c3-9df4710898a5",
