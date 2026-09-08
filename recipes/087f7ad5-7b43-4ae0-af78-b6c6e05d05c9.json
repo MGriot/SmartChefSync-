@@ -10,7 +10,7 @@
   "rating": null,
   "yield_amount": null,
   "yield_unit_id": null,
-  "tags": "[\"Vegetariano\",\"Appetizer\",\"Contorno\",\"snack\",\"lunch\",\"dinner\",\"middle eastern\",\"Vegano\"]",
+  "tags": "[\"Vegetariano\",\"Appetizer\",\"Contorno\",\"snack\",\"lunch\",\"middle eastern\",\"Vegano\"]",
   "regions": "[\"SY\",\"EG\",\"JO\",\"PS\",\"IL\",\"TR\",\"CY\",\"LB\"]",
   "region_coords": "{\"pinerolo\":{\"lat\":44.8873086,\"lng\":7.3319454}}",
   "cover_image_url": "https://www.giallozafferano.it/images/243-24308/Hummus_450x300.jpg",
@@ -24,7 +24,7 @@
   "tips": " Puoi scegliere di utilizzare un frullatore per una consistenza più liscia o un mortaio per una consistenza più rustica.",
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:03",
-  "updated_at": "2026-09-07 20:03:45",
+  "updated_at": "2026-09-08 21:11:08",
   "ingredients": [
     {
       "id": "edd5da35-717b-4ee6-9c1f-186fd895fc0c",
