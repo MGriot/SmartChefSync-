@@ -10,7 +10,7 @@
   "rating": null,
   "yield_amount": null,
   "yield_unit_id": null,
-  "tags": "[\"gluten_free\",\"Vegetariano\",\"Appetizer\",\"Lattosio\",\"Uova\"]",
+  "tags": "[\"gluten-free\",\"Vegetariano\",\"Appetizer\",\"Lattosio\",\"Uova\"]",
   "regions": "[]",
   "region_coords": "{}",
   "cover_image_url": "https://www.giallozafferano.it/images/289-28916/Flan-di-zucca-con-fonduta-di-gorgonzola_450x300.jpg",
@@ -24,7 +24,7 @@
   "tips": "Questa ricetta si presta per numerose varianti: ad esempio potete arricchire il ripieno del flan di zucca con della pancetta a cubetti oppure sostituire mezza dose di Parmigiano Reggiano DOP con del Pecorino. Se invece preferite rimanere più leggeri, potreste realizzare una crema al caprino utilizzando solo il latte. Colorate la vostra tavola preparando tante diverse ricette di flan, come il flan di porri con salsa alle acciughe, e scoprite anche il nostro sformato di zucca e porcini!\n\nSe volete un composto più liscio potete passare al setaccio l'impasto prima di versarlo nei pirottini.\nColorate la vostra tavola con flan di colori diversi, variando il ripieno alle barbabietole, pomodori, spinaci per creare un aperitivo sfizioso!\nSe preferite un sapore ancora più spiccato, sostituite metà dose di Parmigiano Reggiano DOP per il ripieno con del Pecorino!",
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-09-06 13:31:28",
+  "updated_at": "2026-09-08 21:09:20",
   "ingredients": [
     {
       "id": "a96b3a44-e12e-4ee7-af03-e9da469d7b92",
