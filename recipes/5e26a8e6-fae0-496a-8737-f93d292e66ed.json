@@ -6,7 +6,7 @@
   "servings": 4,
   "prep_time_min": 35,
   "cook_time_min": 20,
-  "rest_time_min": null,
+  "rest_time_min": 480,
   "rating": null,
   "yield_amount": null,
   "yield_unit_id": null,
@@ -24,10 +24,10 @@
   "tips": null,
   "sync_status": "local",
   "created_at": "2026-08-20 12:28:04",
-  "updated_at": "2026-08-21 16:56:48",
+  "updated_at": "2026-09-09 18:15:23",
   "ingredients": [
     {
-      "id": "ecaeac81-c1a5-4863-9f9f-a3863c99593b",
+      "id": "d01fb7a5-253b-4a2a-b79c-b86a12488276",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "sort_order": 0,
       "ingredient_id": "b9775c67-87d6-4bca-bf9a-82c895d51ae1",
@@ -36,13 +36,13 @@
       "quantity": 210,
       "quantity_text": null,
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
-      "notes": "4 panetti — 13g proteine (30% della farina totale)",
+      "notes": "13g proteine (30% della farina totale)",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:36:49"
+      "created_at": "2026-09-09 18:15:23"
     },
     {
-      "id": "f518187b-04b3-4cbd-aaae-62c1817647c7",
+      "id": "5465b25e-b97f-496a-86cb-3eee4c405cce",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "sort_order": 1,
       "ingredient_id": "b9775c67-87d6-4bca-bf9a-82c895d51ae1",
@@ -51,13 +51,13 @@
       "quantity": 509,
       "quantity_text": null,
       "unit_id": "2152e3cc861f7d77969a3d8f739f4e03",
-      "notes": "4 panetti — 12g proteine (70% della farina totale)",
+      "notes": "12g proteine (70% della farina totale)",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:36:49"
+      "created_at": "2026-09-09 18:15:23"
     },
     {
-      "id": "64ed7df5-7d84-4553-a3b2-4381bdff2112",
+      "id": "6fdaba49-88b7-4b70-96e9-454edc6de8ca",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "sort_order": 2,
       "ingredient_id": "fa19a925-2ec5-462e-b0dd-55d2f06e3154",
@@ -69,10 +69,10 @@
       "notes": "4 panetti — (fresco) o 27g (lievito madre) o 0,09g (secco)",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:36:49"
+      "created_at": "2026-09-09 18:15:23"
     },
     {
-      "id": "eae99a87-8f89-4bb2-955d-14dc3aeb167b",
+      "id": "70213bd5-a19c-418d-8cc3-0e14aa9c97aa",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "sort_order": 3,
       "ingredient_id": "2bed7d61-aa99-4cfb-9189-e4e6fe001e71",
@@ -84,10 +84,10 @@
       "notes": "4 panetti — (calda o a 25 gradi centigradi)",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:36:49"
+      "created_at": "2026-09-09 18:15:23"
     },
     {
-      "id": "28843a98-7048-432c-b57f-60d31bccefb5",
+      "id": "3eef088e-f894-4eed-b82e-a2c9ef235461",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "sort_order": 4,
       "ingredient_id": "bc6f13a3-26ae-4597-89a2-951b4b7916cb",
@@ -99,10 +99,10 @@
       "notes": "4 panetti",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:36:49"
+      "created_at": "2026-09-09 18:15:23"
     },
     {
-      "id": "f9c38089-ad17-4bff-8201-1501f574525a",
+      "id": "f9b0abce-8dfa-49a1-96b6-8fa1c1583185",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "sort_order": 5,
       "ingredient_id": "7dd98f73-0c12-43ab-a78a-5e79cea7c1a4",
@@ -114,12 +114,12 @@
       "notes": "4 panetti — fino a 50 g (a piacere)",
       "is_optional": 0,
       "group_name": null,
-      "created_at": "2026-09-06 14:36:49"
+      "created_at": "2026-09-09 18:15:23"
     }
   ],
   "steps": [
     {
-      "id": "8b05925c-62c3-4f6f-b9d4-3a09a7b17815",
+      "id": "920c9090-9792-4c84-a617-d7c49f71ba25",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 1,
       "title": null,
@@ -129,11 +129,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:23",
       "technique_ids": "[]"
     },
     {
-      "id": "a36d6a9b-6100-4b12-97dc-2d7383345186",
+      "id": "8e47c280-2817-4172-8d29-c4c1de580b92",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 2,
       "title": null,
@@ -143,11 +143,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:23",
       "technique_ids": "[]"
     },
     {
-      "id": "2de84b0a-1404-42f5-9845-e0a25b1afe28",
+      "id": "6055d30f-e041-4a8c-92f8-d91f86bf459a",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 3,
       "title": null,
@@ -157,11 +157,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:24",
       "technique_ids": "[]"
     },
     {
-      "id": "d8536a0a-0c73-4390-9c76-b9f97198f4ed",
+      "id": "5542488e-3cb2-46a0-b33e-64ca8a9e84bb",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 4,
       "title": null,
@@ -171,11 +171,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:24",
       "technique_ids": "[]"
     },
     {
-      "id": "8dee4aa8-7e8b-46a8-96e7-a29f592f4267",
+      "id": "f9f1e657-6ead-4fc0-a0d8-dddc0df62163",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 5,
       "title": null,
@@ -185,11 +185,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:24",
       "technique_ids": "[]"
     },
     {
-      "id": "ee345be4-ce62-4348-a1aa-5d528f3c0c5a",
+      "id": "10f27ca6-4708-44c3-9326-cf9675ac3cad",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 6,
       "title": null,
@@ -199,11 +199,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:24",
       "technique_ids": "[]"
     },
     {
-      "id": "461cabe8-3c43-464d-8e66-630755bf0b53",
+      "id": "4a0ffa62-0a7a-4874-a74d-1729a0e1e23f",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 7,
       "title": null,
@@ -213,11 +213,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:24",
       "technique_ids": "[]"
     },
     {
-      "id": "1d3adef0-5162-46b7-8f99-e3c12123458a",
+      "id": "864712a5-b28d-4ad9-85c8-10920af794a9",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 8,
       "title": null,
@@ -227,11 +227,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:24",
       "technique_ids": "[]"
     },
     {
-      "id": "4a9f0447-e32b-4f75-a4fb-efbddc543c97",
+      "id": "5f5b1331-cad1-4ae9-bfb7-47ef299946d2",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 9,
       "title": null,
@@ -241,11 +241,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:24",
       "technique_ids": "[]"
     },
     {
-      "id": "0a28faf2-ae90-437d-9040-9793d9bf9b29",
+      "id": "22653b46-2812-4c83-a3f6-2d28f680183b",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 10,
       "title": null,
@@ -255,11 +255,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:24",
       "technique_ids": "[]"
     },
     {
-      "id": "a4b7e0c5-5994-4d07-a480-7acf7c87e1ae",
+      "id": "69ca6df9-e963-4ea5-8105-df0d932d8a6d",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 11,
       "title": null,
@@ -269,11 +269,11 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:24",
       "technique_ids": "[]"
     },
     {
-      "id": "9084b48b-263f-41c9-8081-39b735a40c75",
+      "id": "9f72dcb4-283a-40c4-b238-997ea1ab7dc3",
       "recipe_id": "5e26a8e6-fae0-496a-8737-f93d292e66ed",
       "step_number": 12,
       "title": null,
@@ -283,7 +283,7 @@
       "notes": null,
       "image_url": null,
       "step_ingredients": "[]",
-      "created_at": "2026-09-06 14:36:48",
+      "created_at": "2026-09-09 18:15:24",
       "technique_ids": "[]"
     }
   ],
